@@ -1,2 +1,3 @@
 Makefile
 /help/*.txt.html
+*.rb
