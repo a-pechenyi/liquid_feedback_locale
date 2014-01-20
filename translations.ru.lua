@@ -745,7 +745,7 @@ return {
 ["day [interval ago]"] = "день (дня)";
 ["day [interval time left]"] = "день (дня)";
 ["day [interval]"] = "день (дня)";
-["days [interval ago]"] = "дней(дня)";
+["days [interval ago]"] = "дней (дня)";
 ["days [interval time left]"] = "дней (дня)";
 ["days [interval]"] = "дней (дня)";
 ["deactivated"] = "деактивирован";
