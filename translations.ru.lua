@@ -650,7 +650,7 @@ return {
 ["Voted no"] = "Проголосовали против";
 ["Voted yes"] = "Проголосовали за";
 ["Voters"] = "Голосовавшие";
-["Voting"] = "Голосования";
+["Voting"] = "Голосование";
 ["Voting comment"] = "Комментарии к голосованию";
 ["Voting comment (last updated: #{timestamp})"] = "Коментарий к голосованию (Последнее обновление: #{timestamp})";
 ["Voting comment (optional)"] = "Коментарий к голосованию (опционально)";
