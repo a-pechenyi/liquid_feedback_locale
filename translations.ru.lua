@@ -193,7 +193,7 @@ return {
 ["Disapproval [single entry]"] = "Неодобрение";
 ["Discard voting"] = "Отказаться от голосования";
 ["Discuss with initiators"] = "Дискуссия с инициаторами";
-["Discussion"] = "Дискуссии";
+["Discussion"] = "Дискуссия";
 ["Discussion URL"] = "URL адрес дискуссии";
 ["Discussion on issue"] = "Дискуссия по Вопросу";
 ["Discussion started"] = "Дискуссия открыта";
@@ -235,7 +235,7 @@ return {
 ["Forgot password?"] = "Забыли пароль?";
 ["Free timing"] = "Свободный тайминг";
 ["Friday"] = "Пятница";
-["Frozen"] = "Сверки";
+["Frozen"] = "Сверка";
 ["Fully frozen at"] = "Полностью в сверке ";
 ["Generate API key"] = "Сгенерировать API-Ключ";
 ["Global delegation"] = "Глобальное делегирование";
