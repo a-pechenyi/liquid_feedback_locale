@@ -475,7 +475,7 @@ return {
 ["Population"] = "Популяція";
 ["Posts"] = "Ämter";
 ["Potential supported"] = "Potentiell unterstützt";
-["Potential supporters"] = "Potentielle Unterstützer";
+["Potential supporters"] = "Потенційно підтримають";
 ["Potential supporters (before begin of voting)"] = "Potentielle Unterstützer (zum Abstimmungsbeginn)";
 ["Potentially supported"] = "Potentiell unterstützt";
 ["Preview"] = "Vorschau";
