@@ -639,8 +639,8 @@ return {
 ["Unit delegation"] = "Gliederungsdelegation";
 ["Unit list"] = "Liste der Gliederungen";
 ["Unit: '#{name}'"] = "Спільнота: '#{name}'";
-["Units"] = "Gliederungen";
-["Units and areas"] = "Gliederungen und Themengebiete";
+["Units"] = "Спільноти";
+["Units and areas"] = "Спільноти та Теми";
 ["Unknown author"] = "Unbekannter Autor";
 ["Update voting comment"] = "Abstimmungskommentar ändern";
 ["Updated drafts"] = "Neue Entwürfe";
