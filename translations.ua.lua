@@ -132,7 +132,7 @@ return {
 ["Choose member"] = "Mitglied auswählen";
 ["Closed"] = "geschlossen";
 ["Closed issues"] = "Закриті питання";
-["Closed user group, please login to participate."] = "Geschlossene Benutzergruppe: Bitte melde dich an um teilzunehmen.";
+["Closed user group, please login to participate."] = "Закрита група користувачів. Будь-ласка увійдіть для участі.";
 ["Collective opinion of supporters"] = "Meinungsbild der Unterstützer";
 ["Commit suggestion"] = "Anregung speichern";
 ["Compare"] = "Vergleichen";
