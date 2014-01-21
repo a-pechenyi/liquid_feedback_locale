@@ -103,7 +103,7 @@ return {
 ["Cancel issue #{id}"] = "Thema #{id} abbrechen";
 ["Cancel issue now"] = "Thema jetzt abbrechen";
 ["Cancel refuse of invitation"] = "Ablehnung der Einladung aufheben";
-["Cancel registration"] = "Registrierung abbrechen";
+["Cancel registration"] = "Відмінити реєстрацію";
 ["Canceled"] = "Скасовано";
 ["Canceled (before accepted due to revocation)"] = "Abgebrochen (in Neu-Phase, wegen Rückzug)";
 ["Canceled (during discussion due to revocation)"] = "Abgebrochen (während Diskussion, wegen Rückzug)";
