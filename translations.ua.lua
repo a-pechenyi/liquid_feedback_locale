@@ -243,8 +243,8 @@ return {
 ["Global delegation"] = "Globale Delegation";
 ["Global search"] = "Глобальний пошук";
 ["Half frozen at"] = "Halb eingefroren am/um";
-["Hello\n\n"] = "Hallo\n\n";
-["Hello "] = "Hallo ";
+["Hello\n\n"] = "Вітаємо\n\n";
+["Hello "] = "Вітаємо ";
 ["Hello,\n\n"] = "Hallo, ";
 ["Help #{id}"] = "Hilfe #{id}";
 ["Help for: #{text}"] = "Hilfe zu: #{text}";
