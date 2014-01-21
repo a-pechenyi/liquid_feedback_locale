@@ -322,7 +322,7 @@ return {
 ["Issue reached next phase"] = "Питання досягло наступної фази";
 ["Issues:"] = "Питання:";
 ["JavaScript is disabled or not available."] = "JavaScript ist abgeschaltet oder nicht verfügbar.";
-["Last activity (updated daily)"] = "Letzte Aktivität (täglich aktualisiert)";
+["Last activity (updated daily)"] = "Остання активність";
 ["Last snapshot:"] = "Letzte Auszählung:";
 ["Latest draft created at #{date} #{time}"] = "Letzter Entwurf vom #{date} um #{time}";
 ["Latest events"] = "Letzte Ereignisse";
