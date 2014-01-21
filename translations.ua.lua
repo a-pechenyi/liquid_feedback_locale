@@ -372,10 +372,10 @@ return {
 ["Move up"] = "Hoch schieben";
 ["My areas"] = "Мої Теми";
 ["My areas and issues"] = "Мої Теми та Питання";
-["My opinion"] = "Meine Meinung";
+["My opinion"] = "Моя думка";
 ["My units"] = "Meine Gliederungen";
 ["Name"] = "Ім'я";
-["New"] = "Neu";
+["New"] = "Нові";
 ["New address"] = "Нова адреса";
 ["New draft"] = "Neuer Entwurf";
 ["New draft has been added to initiative"] = "Neuer Entwurf wurde der Initiative hinzugefügt";
