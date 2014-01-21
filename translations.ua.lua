@@ -410,7 +410,7 @@ return {
 ["Not approved (rank #{rank})"] = "Nicht angenommen (Rang #{rank})";
 ["Not voted"] = "Не проголосовано";
 ["Not voted issues"] = "Nicht abgestimmt";
-["Notification address unconfirmed"] = "E-Mail-Adresse für Benachrichtigungen unbestätigt";
+["Notification address unconfirmed"] = "Адреса сповіщень не підтверджена";
 ["Notification email"] = "E-Mail für Benachrichtigungs";
 ["Notification level not set yet"] = "Сповіщення ще не налаштовано";
 ["Notification settings"] = "Налаштування сповіщень";
