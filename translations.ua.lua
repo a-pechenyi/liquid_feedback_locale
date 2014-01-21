@@ -324,8 +324,8 @@ return {
 ["JavaScript is disabled or not available."] = "JavaScript ist abgeschaltet oder nicht verfügbar.";
 ["Last activity (updated daily)"] = "Остання активність";
 ["Last snapshot:"] = "Letzte Auszählung:";
-["Latest draft created at #{date} #{time}"] = "Letzter Entwurf vom #{date} um #{time}";
-["Latest events"] = "Letzte Ereignisse";
+["Latest draft created at #{date} #{time}"] = "Останній варіант від #{date} #{time}";
+["Latest events"] = "Останні події";
 ["License"] = "Lizenz";
 ["LiquidFeedback"] = "LiquidFeedback";
 ["List all revisions (#{count})"] = "Zeige alle Versionen (#{count})";
