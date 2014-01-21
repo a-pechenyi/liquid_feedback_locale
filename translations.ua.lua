@@ -476,9 +476,9 @@ return {
 ["Posts"] = "Ämter";
 ["Potential supported"] = "Potentiell unterstützt";
 ["Potential supporters"] = "Потенційно підтримають";
-["Potential supporters (before begin of voting)"] = "Potentielle Unterstützer (zum Abstimmungsbeginn)";
-["Potentially supported"] = "Potentiell unterstützt";
-["Preview"] = "Vorschau";
+["Potential supporters (before begin of voting)"] = "Потенційно підтримають (до голосування)";
+["Potentially supported"] = "Потенційна підтримка";
+["Preview"] = "Превью";
 ["Preview voting comment"] = "Vorschau Abstimmmungskommentar";
 ["Proceed with registration"] = "Продовжити реєстрацію";
 ["Profession"] = "Професія";
