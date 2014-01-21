@@ -152,7 +152,7 @@ return {
 ["Create new policy"] = "Створити нову процедуру";
 ["Create new unit"] = "Створити нову спільноту";
 ["Created at"] = "Створено";
-["Current name"] = "Aktueller Name";
+["Current name"] = "Поточне ім’я";
 ["Current phase is already closed."] = "Die aktuelle Phase ist schon abgeschlossen.";
 ["Current status"] = "Поточний статус";
 ["Current trustee"] = "Aktueller Delegierter";
