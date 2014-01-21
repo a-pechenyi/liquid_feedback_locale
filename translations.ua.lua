@@ -625,8 +625,8 @@ return {
 ["This title is really too short!"] = "Dieser Titel ist wirklich zu kurz!";
 ["Thursday"] = "Четвер";
 ["Timeline"] = "Zeitachse";
-["Title"] = "Titel";
-["Title (80 chars max)"] = "Titel (max. 80 Zeichen)";
+["Title"] = "Назва";
+["Title (80 chars max)"] = "Назва (до 80 символів)";
 ["Title of initiative"] = "Titel der Initiative";
 ["Today at #{time}"] = "Сьогодні о #{time}";
 ["Traditional wiki syntax"] = "Traditionelle Wiki-Syntax";
