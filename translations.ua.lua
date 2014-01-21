@@ -693,10 +693,10 @@ return {
 ["You are not participating in the only area of the unit"] = "Ви не долучились до єдиної теми в цій спільноті";
 ["You are now initiator of this initiative"] = "Du bist jetzt Initiator dieser Initiative";
 ["You are participating in this area"] = "Ви долучені до цієї теми";
-["You are potential supporter"] = "Du bist potentieller Unterstützer";
+["You are potential supporter"] = "Ви потенційно підтримаєте";
 ["You are potential supporter of this initiative"] = "Du bist potentieller Unterstützer der Initiative";
 ["You are potential supporter of this initiative via delegation"] = "Du bist durch Delegation potentieller Unterstützer der Initiative";
-["You are supporter"] = "Du bist Unterstützer";
+["You are supporter"] = "Ви підтримуєте";
 ["You are supporter of this initiative"] = "Du bist Unterstützer dieser Initiative";
 ["You are supporter of this initiative via delegation"] = "Du bist durch Delegation Unterstützer dieser Initiative";
 ["You can change your email address only once per hour. Please try again later."] = "Du kannst die E-Mail-Adresse nur einmal in der Stunde ändern, bitte versuche es später erneut.";
