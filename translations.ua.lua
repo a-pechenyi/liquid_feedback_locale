@@ -750,8 +750,7 @@ return {
 ["at least #{count} approvals or abstentions"] = "mindestens #{count} Zustimmungen oder Enthaltungen";
 ["change discussion URL"] = "Змінити URL дискусії";
 ["confirm"] = "bestätigen";
-["day [interval ago]"] = "Tag";
-["day [interval time left]"] = "Tag";
+["day [interval time left]"] = "день";
 ["day [interval]"] = "Tag";
 ["days [interval ago]"] = "Tagen";
 ["days [interval time left]"] = "Tage";
