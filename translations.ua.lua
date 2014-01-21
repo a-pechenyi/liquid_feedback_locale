@@ -429,8 +429,8 @@ return {
 ["One step back"] = "На крок назад";
 ["Only for issues reaching the discussion phase"] = "Питання, що досягли фази дискусії";
 ["Only for issues reaching the frozen phase"] = "Nur für Themen, die die Phase Eingefroren erreichen.";
-["Only for issues reaching the voting phase"] = "Nur für Themen, die die Abstimmung erreichen.";
-["Open"] = "Offen";
+["Only for issues reaching the voting phase"] = "Питання, що досягли фази голосування";
+["Open"] = "Відкриті";
 ["Open initiatives you are supporting which has been updated their draft:"] = "Offene, von dir unterstützte Initiativen, deren Antragstext aktualisiert wurde:";
 ["Open issues"] = "Offene Themen";
 ["Opinions"] = "Meinungen";
