@@ -426,8 +426,8 @@ return {
 ["One issue you are interested in"] = "Ein Thema, das Dich interessiert";
 ["One more area in this unit"] = "Ein weiteres Themengebiet in dieser Gliederung";
 ["One of them have an area delegation set"] = "Bei einem davon ist eine Delegation für den Themenbereich gesetzt";
-["One step back"] = "Ein Schritt zurück";
-["Only for issues reaching the discussion phase"] = "Nur für Themen, die die Diskussion erreichen.";
+["One step back"] = "На крок назад";
+["Only for issues reaching the discussion phase"] = "Питання, що досягли фази дискусії";
 ["Only for issues reaching the frozen phase"] = "Nur für Themen, die die Phase Eingefroren erreichen.";
 ["Only for issues reaching the voting phase"] = "Nur für Themen, die die Abstimmung erreichen.";
 ["Open"] = "Offen";
