@@ -726,7 +726,7 @@ return {
 ["Your support has been added to this initiative"] = "Deine Unterstützung wurde der Initiative hinzugefügt";
 ["Your support has been removed from this initiative"] = "Deine Unterstützung wurde der Initiative entzogen";
 ["Your support has been updated to the latest draft"] = "Deine Unterstützung wurde auf den neuesten Entwurf aktualisiert";
-["Your vote has been discarded. Delegation rules apply if set."] = "Deine Abstimmung wurde zurückgezogen. Delegationsregeln gelten sofern gesetzt.";
+["Your vote has been discarded. Delegation rules apply if set."] = "Ви відкликали свій голос. Використаються правила делегування (за наявності).";
 ["Z-A"] = "Z-A";
 ["[Name of Language]"] = "Українська";
 ["[No voting privilege]"] = "[Kein Stimmrecht]";
