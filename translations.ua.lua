@@ -792,9 +792,9 @@ return {
 ["to reset your password please click on the following link:\n\n"] = "um Dein Kennwort zurückzusetzen klicke bitte den folgenden Link an:\n\n";
 ["unit"] = "Спільнота";
 ["unit / area"] = "Спільнота / Тема";
-["until"] = "bis";
+["until"] = "до";
 ["variable"] = "variabel";
-["with winner"] = "mit Gewinner";
+["with winner"] = "з переможцем";
 ["without"] = "ohne";
 ["without winner"] = "ohne Gewinner";
 ["xmpp"] = "Jabber (XMPP)";
