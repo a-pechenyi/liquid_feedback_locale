@@ -182,8 +182,8 @@ return {
 ["Direct majority"] = "Пряма більшість";
 ["Direct majority denumerator"] = "Знаменник прямої більшості";
 ["Direct majority non negative"] = "Пряма більшість не негативна";
-["Direct majority numerator"] = "Direkte Mehrheit Numerator";
-["Direct majority positive"] = "Direkte Mehrheit Positv";
+["Direct majority numerator"] = "Чисельник прямої більшості";
+["Direct majority positive"] = "Пряма більшість позитивна";
 ["Disapproval (prefer to last block) [many entries]"] = "Ablehnung (jedoch Bevorzugung gegenüber letztem Ablehnungsblock)";
 ["Disapproval (prefer to last block) [single entry]"] = "Ablehnung (jedoch Bevorzugung gegenüber letztem Ablehnungsblock)";
 ["Disapproval (prefer to lower block) [many entries]"] = "Ablehnung (jedoch Bevorzugung gegenüber unterem Ablehnungsblock)";
