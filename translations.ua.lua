@@ -93,12 +93,12 @@ return {
 ["Become a member"] = "Mitglied werden";
 ["Birthday"] = "Geburtstag";
 ["Broken delegations"] = "Kaputte Delegationen";
-["By delegation"] = "Durch Delegationen";
+["By delegation"] = "Делегуванням";
 ["Calculation"] = "Auszählung";
 ["Can't remove last initiator"] = "Der letzte Initiator kann nicht entfernt werden";
 ["Can't send confirmation email"] = "Bestätigungs-E-Mail kann nicht versendet werden.";
 ["Cancel"] = "Відміна";
-["Cancel [nullify]"] = "Aufheben";
+["Cancel [nullify]"] = "Відмінити";
 ["Cancel issue"] = "Thema abbrechen";
 ["Cancel issue #{id}"] = "Thema #{id} abbrechen";
 ["Cancel issue now"] = "Thema jetzt abbrechen";
