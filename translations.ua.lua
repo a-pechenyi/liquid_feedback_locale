@@ -173,8 +173,8 @@ return {
 ["Delegations"] = "Delegationen";
 ["Delete"] = "Видалити";
 ["Delete filter"] = "Filter löschen";
-["Description"] = "Beschreibung";
-["Details"] = "Details";
+["Description"] = "Опис";
+["Details"] = "Деталі";
 ["Developer settings"] = "Einstellungen für Entwickler";
 ["Diff"] = "Differenz";
 ["Direct"] = "Direkt";
