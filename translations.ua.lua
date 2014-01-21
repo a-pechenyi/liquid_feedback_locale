@@ -200,8 +200,8 @@ return {
 ["Discussion started"] = "Дискусія почалась";
 ["Discussion starts soon"] = "Дискусія скоро почнеться";
 ["Discussion time"] = "Час на дискусію";
-["Discussion with initiators"] = "Diskussion mit den Initiatoren";
-["Do not vote directly"] = "Nicht selbst abstimmen";
+["Discussion with initiators"] = "Дискусія з ініціаторами";
+["Do not vote directly"] = "Не голосувати напряму";
 ["Download"] = "Завантажити";
 ["Download database export"] = "Експортувати і завантажити базу даних";
 ["Download documents"] = "Dokumente herunterladen";
