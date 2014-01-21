@@ -196,8 +196,8 @@ return {
 ["Discuss with initiators"] = "Дискутувати з ініціаторами";
 ["Discussion"] = "Дискусія";
 ["Discussion URL"] = "URL дискусії";
-["Discussion on issue"] = "Diskussion zum Thema";
-["Discussion started"] = "Diskussion gestartet";
+["Discussion on issue"] = "Дискусія по питанню";
+["Discussion started"] = "Дискусія почалась";
 ["Discussion starts soon"] = "Diskussion startet in Kürze";
 ["Discussion time"] = "Zeit für die Diskussion";
 ["Discussion with initiators"] = "Diskussion mit den Initiatoren";
