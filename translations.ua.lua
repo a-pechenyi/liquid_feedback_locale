@@ -301,7 +301,7 @@ return {
 ["Invitation has been refused"] = "Einladung wurde widerrufen";
 ["Invitation to LiquidFeedback"] = "Запрошення до LiquidFeedback";
 ["Invite an initiator to initiative"] = "Initiator zur Initiative einladen";
-["Invite code"] = "Einladungscode";
+["Invite code"] = "Код запрошення";
 ["Invite initiator"] = "Initiator einladen";
 ["Invited"] = "Eingeladen";
 ["Issue"] = "Thema";
