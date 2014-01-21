@@ -713,7 +713,7 @@ return {
 ["You were interested"] =  "Ви були зацікавлені";
 ["You were potential supporter"] = "Ви потенційно підтримували";
 ["You were supporter"] = "Du bist Unterstützer";
-["You've successfully registered and you can login now with your login and password!"] = "Du hast Dich erfolgreich registriert und kannst Dich jetzt mit Deinen Anmeldenamen und Kennwort anmelden!";
+["You've successfully registered and you can login now with your login and password!"] = "Ви успішно зареєструвались та можете увійти з вашим логіном та паролем.";
 ["Your email address has been changed, please check for confirmation email with activation link!"] = "Deine E-Mail-Adresse wurde geändert, du hast eine Bestätigungs-E-Mail mit Aktivierungslink erhalten.";
 ["Your login has been changed to '#{login}'"] = "Dein Anmeldename wurde auf '#{login}' geändert";
 ["Your name has been changed"] = "Dein Name wurde geändert";
