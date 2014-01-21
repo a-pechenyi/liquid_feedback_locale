@@ -180,8 +180,8 @@ return {
 ["Direct"] = "Напряму";
 ["Direct and by delegation"] = "Напряму та делегуванням";
 ["Direct majority"] = "Пряма більшість";
-["Direct majority denumerator"] = "Direkte Mehrheit Denumerator";
-["Direct majority non negative"] = "Direkte Mehrheit Nicht-Negative";
+["Direct majority denumerator"] = "Знаменник прямої більшості";
+["Direct majority non negative"] = "Пряма більшість не негативна";
 ["Direct majority numerator"] = "Direkte Mehrheit Numerator";
 ["Direct majority positive"] = "Direkte Mehrheit Positv";
 ["Disapproval (prefer to last block) [many entries]"] = "Ablehnung (jedoch Bevorzugung gegenüber letztem Ablehnungsblock)";
