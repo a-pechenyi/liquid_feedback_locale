@@ -178,8 +178,8 @@ return {
 ["Developer settings"] = "Einstellungen für Entwickler";
 ["Diff"] = "Відмінності";
 ["Direct"] = "Напряму";
-["Direct and by delegation"] = "Direkt und delegiert";
-["Direct majority"] = "Direkte Mehrheit";
+["Direct and by delegation"] = "Напряму та делегуванням";
+["Direct majority"] = "Пряма більшість";
 ["Direct majority denumerator"] = "Direkte Mehrheit Denumerator";
 ["Direct majority non negative"] = "Direkte Mehrheit Nicht-Negative";
 ["Direct majority numerator"] = "Direkte Mehrheit Numerator";
