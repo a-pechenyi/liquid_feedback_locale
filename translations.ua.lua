@@ -340,7 +340,7 @@ return {
 ["Manage filter"] = "Filter verwalten";
 ["Manage timeline filters"] = "Zeitachsen-Filter verwalten";
 ["Member"] = "Учасник";
-["Member '#{member}'"] = "Mitglied '#{member}'";
+["Member '#{member}'"] = "Учасник '#{member}'";
 ["Member has been removed from initiators"] = "Mitglied wurde von den Initiatoren entfernt";
 ["Member has been removed from your contacts"] = "Mitglied wurde aus Deinen Kontakten entfernt";
 ["Member has not approved latest draft"] = "Mitglied hat den letzten Entwurf noch nicht angenommen";
