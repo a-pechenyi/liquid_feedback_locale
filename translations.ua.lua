@@ -205,9 +205,9 @@ return {
 ["Download"] = "Завантажити";
 ["Download database export"] = "Експортувати і завантажити базу даних";
 ["Download documents"] = "Dokumente herunterladen";
-["Draft"] = "Entwurf";
+["Draft"] = "Варіант";
 ["Edit"] = "Редагувати";
-["Edit areas"] = "Themenbereiche bearbeiten";
+["Edit areas"] = "Редагувати Теми";
 ["Edit draft"] = "Entwurf bearbeiten";
 ["Edit initiative"] = "Initiative bearbeiten";
 ["Edit my page"] = "Редагувати мою сторінку";
