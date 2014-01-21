@@ -302,10 +302,10 @@ return {
 ["Invitation to LiquidFeedback"] = "Запрошення до LiquidFeedback";
 ["Invite an initiator to initiative"] = "Initiator zur Initiative einladen";
 ["Invite code"] = "Код запрошення";
-["Invite initiator"] = "Initiator einladen";
+["Invite initiator"] = "Запросити ініціатора";
 ["Invited"] = "Eingeladen";
-["Issue"] = "Thema";
-["Issue ##{id}"] = "Thema ##{id}";
+["Issue"] = "Питання";
+["Issue ##{id}"] = "Питання ##{id}";
 ["Issue ID"] = "Thema #";
 ["Issue accepted"] = "Thema akzeptiert";
 ["Issue canceled"] = "Thema abgebrochen";
