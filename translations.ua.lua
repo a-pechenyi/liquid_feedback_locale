@@ -439,8 +439,8 @@ return {
 ["Other failures"] = "Інші збої";
 ["Outgoing delegations"] = "Делегував";
 ["Parent unit"] = "Übergeordnete Gliederung";
-["Participants"] = "Teilnehmer";
-["Participate in this area"] = "An diesem Themengebiet teilnehmen";
+["Participants"] = "Долучені";
+["Participate in this area"] = "Долучитись до цієї Теми";
 ["Password"] = "Пароль";
 ["Password (repeat)"] = "Пароль (повторити)";
 ["Password has been reset successfully"] = "Пароль було успішно оновлено";
