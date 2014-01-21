@@ -672,7 +672,7 @@ return {
 ["Wednesday"] = "Середа";
 ["Wiki engine"] = "Wiki engine";
 ["Wiki engine for statement"] = "Wiki engine für das Statement";
-["Withdraw"] = "Zurückziehen";
+["Withdraw"] = "Відмовитись";
 ["Withdraw membership"] = "Mitgliedschaft aufgeben";
 ["Yes"] = "Так";
 ["Yesterday at #{time}"] = "Вчора о #{time}";
