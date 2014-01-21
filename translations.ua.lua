@@ -551,7 +551,7 @@ return {
 ["Show policies in use"] = "Zeige Regelwerke in Verwendung";
 ["Show policies not in use"] = "Zeige deaktivierte Regelwerke";
 ["Show profile"] = "Показати профіль";
-["So I'm"] = "Also bin ich";
+["So I'm"] = "Тому я";
 ["Software"] = "Software";
 ["Sorry, but there is not confirmed email address for your account. Please contact the administrator or support."] = "Sorry, aber für diesen Account ist keine bestätigte E-Mail-Adresse hinterlegt. Bitte wende Dich an den Administrator oder den Support.";
 ["Sorry, but you are currently not invited"] = "Sorry, aber Du bist zur Zeit nicht eingeladen";
@@ -559,7 +559,7 @@ return {
 ["Sorry, your contingent for creating initiatives has been used up. Please try again later."] = "Sorry, Dein Antragskontingent ist zur Zeit ausgeschöpft. Bitte versuche es später erneut!";
 ["Source"] = "Quelltext";
 ["Standard policies"] = "Standardverfahren";
-["Start search"] = "Suche starten";
+["Start search"] = "Почати пошук";
 ["Statement"] = "Statement";
 ["Status"] = "Статус";
 ["Status quo: #{rank}"] = "Status quo: #{rank}";
