@@ -735,8 +735,8 @@ return {
 ["[event mail] Area: #{name}"] = "Тема: #{name}";
 ["[event mail] Unit: #{name}"] = " Спільнота: #{name}";
 ["[event mail] Event: #{event}"] = " Подія: #{event}";
-["[event mail]     Issue: ##{id}"] = "       Thema: ##{id}";
-["[event mail]     Phase: #{phase}"] = "       Phase: #{phase}";
+["[event mail] Issue: ##{id}"] = " Питання: ##{id}";
+["[event mail] Phase: #{phase}"] = " Фаза: #{phase}";
 ["[event mail]    Policy: #{policy}"] = "   Regelwerk: #{policy}";
 ["[not displayed public]"] = "[nicht öffentlich]";
 ["a bit unsatisfied"] = "etwas unzufrieden";
