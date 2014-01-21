@@ -517,8 +517,8 @@ return {
 ["Saved as contact"] = "Als Kontakt gespeichert";
 ["Saved contacts"] = "Gespeicherte Kontakte";
 ["Schulze rank"] = "Schulze-Rang";
-["Screen name"] = "Screen-Name";
-["Search"] = "Suchen";
+["Screen name"] = "Ім’я користувача";
+["Search"] = "Пошук";
 ["Search context"] = "Suchkontext";
 ["Search for issues"] = "Nach Themen suchen";
 ["Search for members"] = "Nach Mitgliedern suchen";
