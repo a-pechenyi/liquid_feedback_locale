@@ -166,7 +166,7 @@ return {
 ["Degree"] = "Grad";
 ["Delegate area"] = "Делегувати Тему";
 ["Delegate issue"] = "Делегувати Питання";
-["Delegate unit"] = "Gliederung delegieren";
+["Delegate unit"] = "Делегувати Спільноту";
 ["Delegation abandoned"] = "Delegation ausgesetzt";
 ["Delegation turned off for area"] = "Delegation für Themengebiet ausgesetzt";
 ["Delegation turned off for issue"] = "Delegation für Thema ausgesetzt";
