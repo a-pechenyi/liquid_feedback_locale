@@ -245,7 +245,7 @@ return {
 ["Half frozen at"] = "Halb eingefroren am/um";
 ["Hello\n\n"] = "Вітаємо\n\n";
 ["Hello "] = "Вітаємо ";
-["Hello,\n\n"] = "Hallo, ";
+["Hello,\n\n"] = "Вітаємо, ";
 ["Help #{id}"] = "Hilfe #{id}";
 ["Help for: #{text}"] = "Hilfe zu: #{text}";
 ["Hide"] = "Verstecken";
