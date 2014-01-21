@@ -659,13 +659,13 @@ return {
 ["Voting"] = "Голосування";
 ["Voting comment"] = "Коментар до голосування";
 ["Voting comment (last updated: #{timestamp})"] = "Abstimmmungskommentar (Letzte Änderung: #{timestamp})";
-["Voting comment (optional)"] = "Abstimmmungskommentar (optional)";
+["Voting comment (optional)"] = "Коментарі до голосування (за бажанням)";
 ["Voting comment available"] = "Abstimmungskommentar verfügbar";
 ["Voting for this issue has already begun."] = "Die Abstimmung für dieses Thema hat schon begonnen.";
 ["Voting has not started yet."] = "Die Abstimmung hat noch nicht begonnen.";
 ["Voting started"] = "Abstimmung begonnen";
 ["Voting starts soon"] = "Abstimmung beginnt in Kürze";
-["Voting time"] = "Zeit für die Abstimmung";
+["Voting time"] = "Час на голосування";
 ["We couldn't deliver a confirmation mail to this address. Please check entered email address."] = "Wir konnten keine Bestätigungs-E-Mail versenden. Bitte überprüfe die E-Mail-Adresse.";
 ["We have sent an email with activation link already in the last hour. Please try again later."] = "Wir haben bereits innerhalb der letzten Stunde eine E-Mail mit Bestätigungslink gesendet. Bitte versuche es später erneut.";
 ["Website"] = "Webseite";
