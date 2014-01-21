@@ -275,9 +275,9 @@ return {
 ["Information about the available policies"] = "Інформація про наявні процедури";
 ["Initiated"] = "Ініційовані";
 ["Initiative"] = "Ініціатива";
-["Initiative ##{id}"] = "Initiative ##{id}";
+["Initiative ##{id}"] = "Ініціатива ##{id}";
 ["Initiative events"] = "Initiativen-Ereignisse";
-["Initiative i#{id}: #{name}"] = "Initiative i#{id}: #{name}";
+["Initiative i#{id}: #{name}"] = "Ініціатива  i#{id}: #{name}";
 ["Initiative is revoked now"] = "Initiative ist jetzt zurückgezogen";
 ["Initiative quorum"] = "Quorum Initiative";
 ["Initiative quorum denumerator"] = "Initiativ-Quorum Nenner";
