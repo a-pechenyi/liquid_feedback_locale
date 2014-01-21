@@ -75,7 +75,7 @@ return {
 ["Approval (second preference) [single entry]"] = "Zustimmung (Zweitwunsch)";
 ["Approval (third preference) [many entries]"] = "Zustimmung (Drittwünsche)";
 ["Approval (third preference) [single entry]"] = "Zustimmung (Drittwunsch)";
-["Approval [many entries]"] = "Zustimmung";
+["Approval [many entries]"] = "Схвалення";
 ["Approval [single entry]"] = "Zustimmung";
 ["Approved"] = "Angenommen";
 ["Are you sure?"] = "Впевнені?";
