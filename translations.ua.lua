@@ -198,8 +198,8 @@ return {
 ["Discussion URL"] = "URL дискусії";
 ["Discussion on issue"] = "Дискусія по питанню";
 ["Discussion started"] = "Дискусія почалась";
-["Discussion starts soon"] = "Diskussion startet in Kürze";
-["Discussion time"] = "Zeit für die Diskussion";
+["Discussion starts soon"] = "Дискусія скоро почнеться";
+["Discussion time"] = "Час на дискусію";
 ["Discussion with initiators"] = "Diskussion mit den Initiatoren";
 ["Do not vote directly"] = "Nicht selbst abstimmen";
 ["Download"] = "Завантажити";
