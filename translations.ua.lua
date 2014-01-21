@@ -709,9 +709,9 @@ return {
 ["You have not voted #{count} issue(s) you were interested in"] = "Du hast für #{count} Themen, die dich interessieren, noch nicht abgestimmt";
 ["You have to mark 'Are you sure' to revoke!"] = "Zum Zurückziehen musst Du 'Sicher?' auswählen";
 ["You have voting privileges for this unit"] = "Ви можете голосувати в цій спільноті";
-["You need to be logged in, to use all features of this system."] = "Du musst eingeloggt sein, um alle Funktionen dieses Systems nutzen zu können.";
-["You were interested"] = "Du warst interessiert";
-["You were potential supporter"] = "Du bist potentieller Unterstützer";
+["You need to be logged in, to use all features of this system."] = "Ви маєте увійти для використання всіх можливостей системи.";
+["You were interested"] =  "Ви були зацікавлені";
+["You were potential supporter"] = "Ви потенційно підтримували";
 ["You were supporter"] = "Du bist Unterstützer";
 ["You've successfully registered and you can login now with your login and password!"] = "Du hast Dich erfolgreich registriert und kannst Dich jetzt mit Deinen Anmeldenamen und Kennwort anmelden!";
 ["Your email address has been changed, please check for confirmation email with activation link!"] = "Deine E-Mail-Adresse wurde geändert, du hast eine Bestätigungs-E-Mail mit Aktivierungslink erhalten.";
