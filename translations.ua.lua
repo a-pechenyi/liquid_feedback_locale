@@ -148,8 +148,8 @@ return {
 ["Create / edit policy"] = "Regelwerk anlegen / bearbeiten";
 ["Create alternative initiative"] = "Створити альтернативну ініціативу";
 ["Create new area"] = "Створити нову Тему";
-["Create new issue"] = "Neues Thema anlegen";
-["Create new policy"] = "Neues Regelwerk anlegen";
+["Create new issue"] = "Створити нове питання";
+["Create new policy"] = "Створити нову процедуру";
 ["Create new unit"] = "Neue Gliederung anlegen";
 ["Created at"] = "Створено";
 ["Current name"] = "Aktueller Name";
