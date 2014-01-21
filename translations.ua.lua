@@ -190,8 +190,8 @@ return {
 ["Disapproval (prefer to lower block) [single entry]"] = "Ablehnung (jedoch Bevorzugung gegenüber unterem Ablehnungsblock)";
 ["Disapproval (prefer to lower blocks) [many entries]"] = "Ablehnung (jedoch Bevorzugung gegenüber unteren Ablehnungsblöcken)";
 ["Disapproval (prefer to lower blocks) [single entry]"] = "Ablehnung (jedoch Bevorzugung gegenüber unteren Ablehnungsblöcken)";
-["Disapproval [many entries]"] = "Ablehnung";
-["Disapproval [single entry]"] = "Ablehnung";
+["Disapproval [many entries]"] = "Несхвалення";
+["Disapproval [single entry]"] = "Несхвалення";
 ["Discard voting"] = "Abstimmung zurückziehen";
 ["Discuss with initiators"] = "Diskussion mit den Initiatoren";
 ["Discussion"] = "Diskussion";
