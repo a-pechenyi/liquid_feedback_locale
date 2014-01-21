@@ -411,7 +411,7 @@ return {
 ["Not voted"] = "Не проголосовано";
 ["Not voted issues"] = "Nicht abgestimmt";
 ["Notification address unconfirmed"] = "Адреса сповіщень не підтверджена";
-["Notification email"] = "E-Mail für Benachrichtigungs";
+["Notification email"] = "Імейл для оповіщень";
 ["Notification level not set yet"] = "Сповіщення ще не налаштовано";
 ["Notification settings"] = "Налаштування сповіщень";
 ["Number of incoming delegations, follow link to see more details"] = "Anzahl eingehender Delegationen, Link folgen für mehr Details";
