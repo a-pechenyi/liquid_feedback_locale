@@ -214,7 +214,7 @@ return {
 ["Edit my profile"] = "Редагувати мій профіль";
 ["Edit profile"] = "Редагувати профіль";
 ["Eligible as winner"] = "Прийнято як переможця";
-["Eligible voters"] = "Stimmberechtigte";
+["Eligible voters"] = "З правом голосу";
 ["Email address"] = "Email адреса";
 ["Email address confirmation"] = "Підтвердження email адреси";
 ["Email address is confirmed now"] = "Email адресу підтверджено";
