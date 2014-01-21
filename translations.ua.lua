@@ -164,8 +164,8 @@ return {
 ["Date format is not valid. Please use following format: YYYY-MM-DD"] = "Datumsformat nicht korrekt. Bitte verwende: JJJJ-MM-TT, also z.B. 1945-05-23";
 ["Default Policy"] = "Standard-Regelwerk";
 ["Degree"] = "Grad";
-["Delegate area"] = "Themengebiet delegieren";
-["Delegate issue"] = "Thema delegieren";
+["Delegate area"] = "Делегувати Тему";
+["Delegate issue"] = "Делегувати Питання";
 ["Delegate unit"] = "Gliederung delegieren";
 ["Delegation abandoned"] = "Delegation ausgesetzt";
 ["Delegation turned off for area"] = "Delegation für Themengebiet ausgesetzt";
