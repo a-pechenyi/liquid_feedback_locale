@@ -386,7 +386,7 @@ return {
 ["New password"] = "Новий пароль";
 ["New passwords does not match."] = "Нові паролі не співпадають.";
 ["New passwords is too short."] = "Новий пароль занадто короткий.";
-["New suggestion"] = "Neue Anregung";
+["New suggestion"] = "Нова пропозиція";
 ["Newest"] = "Найновіші";
 ["No"] = "Ні";
 ["No admission needed"] = "Keine Zulassung nötig";
@@ -395,7 +395,7 @@ return {
 ["No delegation"] = "Keine Delegation";
 ["No events selected to list"] = "Keine Ereignisse ausgewählt";
 ["No more events available"] = "Keine weiteren Ereignisse verfügbar";
-["No multistage majority"] = "Keine mehrstufigen Mehrheiten";
+["No multistage majority"] = "Без багатоступеневої більшості";
 ["No notifications at all"] = "Gar keine Benachrichtigungen";
 ["No potential supporters"] = "Keine potentiellen Unterstützer";
 ["No potential supporters (before begin of voting)"] = "Keine potentiellen Unterstützer (zum Abstimmungsbeginn)";
