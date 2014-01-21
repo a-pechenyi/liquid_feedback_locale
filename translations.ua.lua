@@ -61,7 +61,7 @@ return {
 ["All of them"] = "Alle Benachrichtigungen";
 ["All units"] = "Всі Спільноти";
 ["Any"] = "Усі";
-["Any phase"] = "Alle Phasen";
+["Any phase"] = "Всі Фази";
 ["Any state"] = "Alle Zustände";
 ["Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der globalen Delegation (Zur Zeit: #{delegate_name} [#{scope}])";
 ["Apply global or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der globalen bzw. Themenbereichsdelegation (Zur Zeit: #{delegate_name} [#{scope}])";
