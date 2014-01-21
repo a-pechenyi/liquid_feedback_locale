@@ -656,8 +656,8 @@ return {
 ["Voted no"] = "Проголосоване ПРОТИ";
 ["Voted yes"] = "Проголосоване ЗА";
 ["Voters"] = "Голосували";
-["Voting"] = "Abstimmung";
-["Voting comment"] = "Abstimmungskommentar";
+["Voting"] = "Голосування";
+["Voting comment"] = "Коментар до голосування";
 ["Voting comment (last updated: #{timestamp})"] = "Abstimmmungskommentar (Letzte Änderung: #{timestamp})";
 ["Voting comment (optional)"] = "Abstimmmungskommentar (optional)";
 ["Voting comment available"] = "Abstimmungskommentar verfügbar";
