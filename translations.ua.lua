@@ -339,8 +339,8 @@ return {
 ["Logout successful"] = "Abmeldung erfolgreich";
 ["Manage filter"] = "Filter verwalten";
 ["Manage timeline filters"] = "Zeitachsen-Filter verwalten";
-["Member"] = "Учасник";
-["Member '#{member}'"] = "Учасник '#{member}'";
+["Member"] = "Користувач";
+["Member '#{member}'"] = "Користувач '#{member}'";
 ["Member has been removed from initiators"] = "Mitglied wurde von den Initiatoren entfernt";
 ["Member has been removed from your contacts"] = "Mitglied wurde aus Deinen Kontakten entfernt";
 ["Member has not approved latest draft"] = "Mitglied hat den letzten Entwurf noch nicht angenommen";
@@ -353,7 +353,7 @@ return {
 ["Member is participating in this area"] = "Mitglied ist Teilnehmer im Themenbereich";
 ["Member list"] = "Список користувачів";
 ["Member menu"] = "Меню користувача";
-["Member name"] = "Mitglied Name";
+["Member name"] = "Ім'я користувача";
 ["Member name history for '#{name}'"] = "Namenshistorie für '#{name}'";
 ["Member of area"] = "Mitglied des Themenbereichs";
 ["Member page"] = "Сторінка користувача";
