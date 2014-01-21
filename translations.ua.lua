@@ -360,7 +360,7 @@ return {
 ["Member successfully registered"] = "Mitglied erfolgreich registriert";
 ["Member successfully updated"] = "Mitglied erfolgreich aktualisert";
 ["Member: '#{identification}' (#{name})"] = "Mitglied: '#{identification}' (#{name})";
-["Members"] = "Mitglieder";
+["Members"] = "Користувачи";
 ["Membership not existent"] = "Mitgliedschaft existiert nicht";
 ["Membership removed"] = "Mitgliedschaft entfernt";
 ["Membership updated"] = "Mitgliedschaft aktualisiert";
