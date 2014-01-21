@@ -602,7 +602,7 @@ return {
 ["This issue is already frozen."] = "Das Thema ist schon eingefroren";
 ["This login is already taken, please choose another one!"] = "Dieser Anmeldename ist bereits vergeben, bitte wähle einen anderen!";
 ["This login is too short!"] = "Dieser Anmeldename ist zu kurz!";
-["This member account has been created at #{created}"] = "Dieser Mitgliedszugang wurde am/um #{created} angelegt.";
+["This member account has been created at #{created}"] = "Акаунт цього учасника був створений #{created}";
 ["This member has rejected to become initiator of this initiative"] = "Dieses Mitglied hat die Einladung, Initiator zu werden, abgelehnt";
 ["This member is already initiator of this initiative"] = "Dieses Mitglied ist bereits Initiator dieser Initiative";
 ["This member is already invited to become initiator of this initiative"] = "Dieses Mitglied ist bereits eingeladen Initiator dieser Initiative zu werden";
@@ -620,7 +620,7 @@ return {
 ["This screen name is too short!"] = "Dieser Screen-Name ist zu kurz!";
 ["This service is provided by:"] = "Diensteanbieter:";
 ["This service is provided using the following software components:"] = "Dieser Dienst ist mit folgender Software realisiert worden:";
-["This site is using"] = "Diese Seite benutzt";
+["This site is using"] = "Цей сайт використовує";
 ["This suggestion has been meanwhile deleted"] = "Diese Anregung wurde zwischenzeitlich gelöscht";
 ["This title is really too short!"] = "Dieser Titel ist wirklich zu kurz!";
 ["Thursday"] = "Четвер";
