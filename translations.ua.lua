@@ -146,8 +146,8 @@ return {
 ["Counting starts soon"] = "Підрахунок скоро почнеться";
 ["Create / edit area"] = "Themengebiet anlegen / bearbeiten";
 ["Create / edit policy"] = "Regelwerk anlegen / bearbeiten";
-["Create alternative initiative"] = "Alternative Initiative hinzufügen";
-["Create new area"] = "Neuen Themenbereich anlegen";
+["Create alternative initiative"] = "Створити альтернативну ініціативу";
+["Create new area"] = "Створити нову Тему";
 ["Create new issue"] = "Neues Thema anlegen";
 ["Create new policy"] = "Neues Regelwerk anlegen";
 ["Create new unit"] = "Neue Gliederung anlegen";
