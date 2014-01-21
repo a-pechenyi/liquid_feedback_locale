@@ -293,9 +293,9 @@ return {
 ["Interest removed"] = "Interesse entfernt";
 ["Interest updated"] = "Interesse aktualisiert";
 ["Interested"] = "Зацікавлений";
-["Interested members"] = "Interessierte Mitglieder";
+["Interested members"] = "Зацікавлені учасники";
 ["Internal posts"] = "Interne Ämter";
-["Interval format:"] = "Intervall-Format";
+["Interval format:"] = "Формат інтервала:";
 ["Invalid login name or password!"] = "Anmeldename oder Kennwort ungültig";
 ["Invalid query"] = "Ungültige Anfrage";
 ["Invitation has been refused"] = "Einladung wurde widerrufen";
