@@ -382,7 +382,7 @@ return {
 ["New drafts for #{count} initiative(s) you are supporting"] = "Für #{count} von dir unterstützte Iniativen gibt es neue Entwürfe";
 ["New initiative"] = "Neue Initiative";
 ["New initiative draft"] = "Neuer Entwurfstext der Initiative";
-["New issue"] = "Neues Thema";
+["New issue"] = "Нове питання";
 ["New password"] = "Новий пароль";
 ["New passwords does not match."] = "Нові паролі не співпадають.";
 ["New passwords is too short."] = "Новий пароль занадто короткий.";
