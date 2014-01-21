@@ -479,7 +479,7 @@ return {
 ["Potential supporters (before begin of voting)"] = "Потенційно підтримають (до голосування)";
 ["Potentially supported"] = "Потенційна підтримка";
 ["Preview"] = "Превью";
-["Preview voting comment"] = "Vorschau Abstimmmungskommentar";
+["Preview voting comment"] = "Предивитись до коментарів голосування";
 ["Proceed with registration"] = "Продовжити реєстрацію";
 ["Profession"] = "Професія";
 ["Profile"] = "Профіль";
