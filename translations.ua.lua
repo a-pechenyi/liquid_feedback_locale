@@ -751,9 +751,9 @@ return {
 ["change discussion URL"] = "Змінити URL дискусії";
 ["confirm"] = "bestätigen";
 ["day [interval time left]"] = "день";
-["day [interval]"] = "Tag";
-["days [interval ago]"] = "Tagen";
-["days [interval time left]"] = "Tage";
+["day [interval]"] = "день";
+["days [interval ago]"] = "днів";
+["days [interval time left]"] = "днів";
 ["days [interval]"] = "Tage";
 ["deactivated"] = "deaktiviert";
 ["delegated to"] = "delegiert an";
