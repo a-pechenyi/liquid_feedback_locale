@@ -436,8 +436,8 @@ return {
 ["Opinions"] = "Думки";
 ["Options"] = "Optionen";
 ["Organizational unit"] = "Organisationseinheit";
-["Other failures"] = "Weitere Mängel";
-["Outgoing delegations"] = "Ausgehende Delegationen";
+["Other failures"] = "Інші збої";
+["Outgoing delegations"] = "Делегував";
 ["Parent unit"] = "Übergeordnete Gliederung";
 ["Participants"] = "Teilnehmer";
 ["Participate in this area"] = "An diesem Themengebiet teilnehmen";
