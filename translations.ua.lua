@@ -452,7 +452,7 @@ return {
 ["Photo"] = "Фотографія";
 ["Please choose a login name. This name will not be shown to others and is used only by you to login into the system. The login name is case sensitive."] = "Bitte wähle einen Anmeldenamen. Dieser wird anderen nicht gezeigt und nur von Dir zum Anmelden verwendet. Groß- und Kleinschreibung wird berücksichtigt.";
 ["Please choose a member"] = "Bitte wähle ein Mitglied";
-["Please choose a name, i.e. your real name or your nick name. This name will be shown to others to identify you."] = "Wähle einen Namen, z. B. Deinen Real- oder Nicknamen. Dieser wird anderen angezeigt um Dich zu identifizieren.";
+["Please choose a name, i.e. your real name or your nick name. This name will be shown to others to identify you."] = "Будь-ласка оберіть ім’я - справжнє або псевдонім. Це ім’я буде видно іншим для вашої ідентифікації.";
 ["Please choose a password and enter it twice. The password is case sensitive."] = "Bitte wähle ein Kennwort und gib es zweimal ein. Groß- und Kleinschreibung wird berücksichtigt.";
 ["Please choose a policy"] = "Bitte wähle ein Regelwerk";
 ["Please choose two different versions of the draft to compare"] = "Bitte wähle zwei verschiedene Versionen des Entwurfs, um sie zu vergleichen.";
