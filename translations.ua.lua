@@ -594,7 +594,7 @@ return {
 ["This initiative has not been admitted! It failed the quorum of #{quorum}."] = "Diese Initiative wurde nicht zugelassen. Sie hat das Quorum von #{quorum} nicht erreicht.";
 ["This initiative is already revoked"] = "Diese Initiative ist schon zurückgezogen";
 ["This initiative is revoked"] = "Diese Initiative wurde zurückgezogen";
-["This invite key is connected with the following information:"] = "Dieser Einladungscode ist mit den folgenden Daten verknüpft:";
+["This invite key is connected with the following information:"] = "Цей код запрошення пов’язаний з наступною інформацією:";
 ["This issue has been canceled by administrative intervention."] = "Dieses Thema wurde durch administrativen Eingriff abgebrochen.";
 ["This issue has been canceled."] = "Dieses Thema wurde abgebrochen";
 ["This issue has been canceled. It failed the quorum of #{quorum}."] = "Dieses Thema wurde abgebrochen. Es hat das Quorum von #{quorum} nicht erfüllt.";
