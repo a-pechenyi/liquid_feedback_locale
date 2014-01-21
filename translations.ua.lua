@@ -580,7 +580,7 @@ return {
 ["Sunday"] = "Неділя";
 ["Support this initiative"] = "Підтримати ініціативу";
 ["Supported"] = "Підтримка";
-["Supporters"] = "Unterstützer";
+["Supporters"] = "Підтримують";
 ["Supporters (before begin of voting)"] = "Unterstützer (zum Abstimmungesbeginn)";
 ["Syntax help"] = "Syntax-Hilfe";
 ["Terms of use"] = "Умови користування";
