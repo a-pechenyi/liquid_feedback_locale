@@ -504,7 +504,7 @@ return {
 ["Repeat new password"] = "Neues Kennwort wiederholen";
 ["Request email with login name"] = "E-Mail mit Anmeldename anfordern";
 ["Request password reset link"] = "Link zum Rücksetzen des Kennworts anfordern";
-["Resend activation email to '#{email}'"] = "E-Mail mit Aktivierungslink erneut an '#{email}' senden";
+["Resend activation email to '#{email}'"] = "Повторити повідомлення для активації адреси '#{email}'";
 ["Reset code"] = "Rücksetzcode";
 ["Reset code is invalid!"] = "Rücksetzcode ist ungültig";
 ["Reset password"] = "Kennwort zurücksetzen";
