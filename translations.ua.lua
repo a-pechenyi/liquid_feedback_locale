@@ -57,7 +57,7 @@ return {
 ["Admitted"] = "Прийнято";
 ["All areas"] = "Всі Теми";
 ["All areas in my units"] = "Всі Теми в моїх спільнотах";
-["All issues"] = "Усі теми";
+["All issues"] = "Всі Питання";
 ["All of them"] = "Alle Benachrichtigungen";
 ["All units"] = "Усі розділи";
 ["Any"] = "Усі";
