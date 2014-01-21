@@ -396,7 +396,7 @@ return {
 ["No events selected to list"] = "Keine Ereignisse ausgewählt";
 ["No more events available"] = "Keine weiteren Ereignisse verfügbar";
 ["No multistage majority"] = "Без багатоступеневої більшості";
-["No notifications at all"] = "Gar keine Benachrichtigungen";
+["No notifications at all"] = "Зовсім ніяких сповіщень";
 ["No potential supporters"] = "Keine potentiellen Unterstützer";
 ["No potential supporters (before begin of voting)"] = "Keine potentiellen Unterstützer (zum Abstimmungsbeginn)";
 ["No reverse beat path"] = "Kein rückwärtsgerichteter Schlagpfad";
