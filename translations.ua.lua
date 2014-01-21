@@ -421,7 +421,7 @@ return {
 ["Oldest"] = "Найдавніші";
 ["On that page please enter the confirmation code:\n\n"] = "На тій сторінці будь-ласка введіть код підтвердження:\n\n";
 ["On that page please enter the invite key:\n\n"] = "На тій сторінці будь-ласка введіть код запрошення:\n\n";
-["On that page please enter the reset code:\n\n"] = "Auf dieser Seite gib bitte den folgenden Rücksetzcode ein:\n\n";
+["On that page please enter the reset code:\n\n"] = "На тій сторінці будь-ласка введіть код ресету:\n\n";
 ["One issue"] = "Ein Thema";
 ["One issue you are interested in"] = "Ein Thema, das Dich interessiert";
 ["One more area in this unit"] = "Ein weiteres Themengebiet in dieser Gliederung";
