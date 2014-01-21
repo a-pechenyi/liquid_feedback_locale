@@ -683,10 +683,10 @@ return {
 ["You are currently not invited to any initiative."] = "Du bist zur Zeit von keiner Initiative eingeladen.";
 ["You are currently not supporting this initiative directly. By adding suggestions to this initiative you will automatically become a potential supporter."] = "Du bist zur Zeit kein direkter Unterstützer dieser Initiative. Wenn Du eine Anregung hinzufügst wirst Du automatisch potentieller Unterstützer!";
 ["You are initiator of this initiative"] = "Du bist Initiator dieser Initiative";
-["You are interested"] = "Du bist interessiert";
+["You are interested"] = "Ви зацікавлені";
 ["You are interested in this issue"] = "Du bist an diesem Thema interessiert";
 ["You are invited to #{count} initiative(s)"] = "Du bist zu #{count} Initiativen als Initiator eingeladen";
-["You are invited to LiquidFeedback. To register please click the following link:\n\n"] = "Du bist zu LiquidFeedback eingeladen. Bitte klicke auf den folgenden Link, um dich zu registrieren:\n\n";
+["You are invited to LiquidFeedback. To register please click the following link:\n\n"] = "Ви запрошені до LiquidFeedback. Для реєстрації будь-ласка натисніть цей лінк:\n\n";
 ["You are invited to become initiator of this initiative."] = "Du bist eingeladen Initiator dieser Initiative zu werden.";
 ["You are member"] = "Du bist Mitglied";
 ["You are not participating in any of the #{count} areas in this unit"] = "Du nimmst an keinem der #{count} Themenbereiche dieser Gliederung teil";
