@@ -651,8 +651,8 @@ return {
 ["Verification starts soon"] = "Phase Eingefroren startet in Kürze";
 ["Verification time"] = "Час на перевірку";
 ["Version"] = "Версія";
-["Vote now"] = "Jetzt abstimmen";
-["Voted"] = "Abgestimmt";
+["Vote now"] = "Голосувати зараз";
+["Voted"] = "Проголосовані";
 ["Voted no"] = "Mit Nein gestimmt";
 ["Voted yes"] = "Mit Ja gestimmt";
 ["Voters"] = "Abstimmende";
