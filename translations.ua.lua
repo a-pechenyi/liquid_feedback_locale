@@ -402,7 +402,7 @@ return {
 ["No reverse beat path"] = "Kein rückwärtsgerichteter Schlagpfad";
 ["No suggestions"] = "Keine Anregungen";
 ["No suggestions yet"] = "Поки нема пропозицій";
-["No supporters"] = "Keine Unterstützer";
+["No supporters"] = "Нема прихильників";
 ["No supporters (before begin of voting)"] = "Keine Unterstützer (zum Abstimmungsbeginn)";
 ["Not a member"] = "Kein Mitglied";
 ["Not accepted yet"] = "Ще не прийнято";
