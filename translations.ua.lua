@@ -265,8 +265,8 @@ return {
 ["Ignore member"] = "Ігнорувати учасника";
 ["Images"] = "Bilder";
 ["Implicitly admitted"] = "Implizit zugelassen";
-["Incoming delegations"] = "Eingehende Delegationen";
-["Index"] = "Positionsnummer";
+["Incoming delegations"] = "Делегували";
+["Index"] = "Індекс";
 ["Indirect majority"] = "Indirekte Mehrheit";
 ["Indirect majority denumerator"] = "Indirekte Mehrheit Denumerator";
 ["Indirect majority non negative"] = "Indirekte Mehrheit Nicht-Negativ";
