@@ -447,7 +447,7 @@ return {
 ["Password reset request"] = "Запит на оновлення паролю";
 ["Passwords don't match!"] = "Паролі на співпадають!";
 ["Passwords must consist of at least 8 characters!"] = "Паролі мають містити щонайменше 8 символів!";
-["Phases"] = "Phasen";
+["Phases"] = "Фази";
 ["Phone"] = "Телефон";
 ["Photo"] = "Фотографія";
 ["Please choose a login name. This name will not be shown to others and is used only by you to login into the system. The login name is case sensitive."] = "Bitte wähle einen Anmeldenamen. Dieser wird anderen nicht gezeigt und nur von Dir zum Anmelden verwendet. Groß- und Kleinschreibung wird berücksichtigt.";
