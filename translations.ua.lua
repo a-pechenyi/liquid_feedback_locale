@@ -273,8 +273,8 @@ return {
 ["Indirect majority numerator"] = "Чисельник непрямої більшості";
 ["Indirect majority positive"] = "Непряма бідьшість позитивна";
 ["Information about the available policies"] = "Інформація про наявні процедури";
-["Initiated"] = "Initiiert";
-["Initiative"] = "Initiative";
+["Initiated"] = "Ініційовані";
+["Initiative"] = "Ініціатива";
 ["Initiative ##{id}"] = "Initiative ##{id}";
 ["Initiative events"] = "Initiativen-Ereignisse";
 ["Initiative i#{id}: #{name}"] = "Initiative i#{id}: #{name}";
