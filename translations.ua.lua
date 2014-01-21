@@ -260,8 +260,8 @@ return {
 ["Id"] = "Id";
 ["Identification"] = "Ідентифікатор";
 ["If this link is not working, please open following url in your web browser:\n\n"] = "Якщо цей лінк не працює, будь-ласка відкрийте наступний url в вашому браузері:\n\n";
-["Ignore Areas"] = "Ігнорування Теми";
-["Ignore initiative"] = "Ігнорування ініціативи";
+["Ignore Areas"] = "Ігнорувати Тему";
+["Ignore initiative"] = "Ігнорувати Iніціативу";
 ["Ignore member"] = "Ігнорувати учасника";
 ["Images"] = "Bilder";
 ["Implicitly admitted"] = "Implizit zugelassen";
