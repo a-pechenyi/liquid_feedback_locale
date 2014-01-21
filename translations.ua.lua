@@ -733,7 +733,7 @@ return {
 ["[Registered members only]"] = "[nur für Registrierte]";
 ["[event mail]       URL: #{url}"] = "         URL: #{url}";
 ["[event mail] Area: #{name}"] = "Тема: #{name}";
-["[event mail]      Unit: #{name}"] = "  Gliederung: #{name}";
+["[event mail] Unit: #{name}"] = " Спільнота: #{name}";
 ["[event mail]     Event: #{event}"] = "    Ereignis: #{event}";
 ["[event mail]     Issue: ##{id}"] = "       Thema: ##{id}";
 ["[event mail]     Phase: #{phase}"] = "       Phase: #{phase}";
