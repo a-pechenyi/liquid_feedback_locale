@@ -76,8 +76,8 @@ return {
 ["Approval (third preference) [many entries]"] = "Zustimmung (Drittwünsche)";
 ["Approval (third preference) [single entry]"] = "Zustimmung (Drittwunsch)";
 ["Approval [many entries]"] = "Схвалення";
-["Approval [single entry]"] = "Zustimmung";
-["Approved"] = "Angenommen";
+["Approval [single entry]"] = "Схвалення";
+["Approved"] = "Затверджено";
 ["Are you sure?"] = "Впевнені?";
 ["Area"] = "Themenbereich";
 ["Area '#{name}'"] = "Themenbereich '#{name}'";
