@@ -213,7 +213,7 @@ return {
 ["Edit my page"] = "Редагувати мою сторінку";
 ["Edit my profile"] = "Редагувати мій профіль";
 ["Edit profile"] = "Редагувати профіль";
-["Eligible as winner"] = "Als Gewinner qualifiziert";
+["Eligible as winner"] = "Прийнято як переможця";
 ["Eligible voters"] = "Stimmberechtigte";
 ["Email address"] = "Email адреса";
 ["Email address confirmation"] = "Підтвердження email адреси";
