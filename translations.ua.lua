@@ -714,7 +714,7 @@ return {
 ["You were potential supporter"] = "Ви потенційно підтримували";
 ["You were supporter"] = "Du bist Unterstützer";
 ["You've successfully registered and you can login now with your login and password!"] = "Ви успішно зареєструвались та можете увійти з вашим логіном та паролем.";
-["Your email address has been changed, please check for confirmation email with activation link!"] = "Deine E-Mail-Adresse wurde geändert, du hast eine Bestätigungs-E-Mail mit Aktivierungslink erhalten.";
+["Your email address has been changed, please check for confirmation email with activation link!"] = "Ваша імейл адреса змінилась. Будь-ласка перевірте повідомлення про підтвердження імейлу з кодом активації!";
 ["Your login has been changed to '#{login}'"] = "Dein Anmeldename wurde auf '#{login}' geändert";
 ["Your name has been changed"] = "Dein Name wurde geändert";
 ["Your page has been updated"] = "Deine Seite wurde aktualisiert";
