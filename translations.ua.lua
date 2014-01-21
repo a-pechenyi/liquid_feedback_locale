@@ -701,8 +701,8 @@ return {
 ["You are supporter of this initiative via delegation"] = "Ви підтримуєте цю ініціативу делегуванням";
 ["You can change your email address only once per hour. Please try again later."] = "Du kannst die E-Mail-Adresse nur einmal in der Stunde ändern, bitte versuche es später erneut.";
 ["You can't suggest the initiative you are revoking"] = "Du kannst nicht die Initiative empfehlen, die Du löschen möchtest";
-["You didn't confirm your email address '#{email}' within 7 days."] = "Du hast die E-Mail-Adresse '#{email}' nicht innerhalb von 7 Tagen bestätigt.";
-["You didn't confirm your email address '#{email}'. You have received an email with an activation link."] = "Du hast die E-Mail-Adresse '#{email}' nicht bestätigt. Du hast hierzu eine E-Mail mit einem Aktivierungslink erhalten.";
+["You didn't confirm your email address '#{email}' within 7 days."] = "Ви не підтвердили свою імейл адресу '#{email}' протягом 7-ми днів.";
+["You didn't confirm your email address '#{email}'. You have received an email with an activation link."] = "Ви не підтвердили свою імейл адресу '#{email}'. Ви мали отримати повідомлення з лінком для активації.";
 ["You didn't save any member as contact yet."] = "Du hast noch kein Mitglied als Kontakt gespeichert!";
 ["You didn't set the level of notifications you like to receive"] = "Du hast noch nicht ausgewählt, ob und welche Benachrichtigungen du erhalten möchtest.";
 ["You have ignored this member"] = "Du ignorierst dieses Mitglied";
