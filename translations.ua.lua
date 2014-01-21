@@ -521,7 +521,7 @@ return {
 ["Search"] = "Пошук";
 ["Search context"] = "Контекст пошуку";
 ["Search for issues"] = "Пошук питань";
-["Search for members"] = "Nach Mitgliedern suchen";
+["Search for members"] = "Пошук учасників";
 ["Search initiatives"] = "Suche Initiativen";
 ["Search issues"] = "Suche Themen";
 ["Search members"] = "Suche Mitglieder";
