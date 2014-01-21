@@ -320,7 +320,7 @@ return {
 ["Issue quorum denumerator"] = "Знаменник кворуму по питанню";
 ["Issue quorum numerator"] = "Чисельник кворуму по питанню";
 ["Issue reached next phase"] = "Питання досягло наступної фази";
-["Issues:"] = "Themen:";
+["Issues:"] = "Питання:";
 ["JavaScript is disabled or not available."] = "JavaScript ist abgeschaltet oder nicht verfügbar.";
 ["Last activity (updated daily)"] = "Letzte Aktivität (täglich aktualisiert)";
 ["Last snapshot:"] = "Letzte Auszählung:";
