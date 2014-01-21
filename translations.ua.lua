@@ -259,9 +259,9 @@ return {
 ["I like to receive notifications by email about events in my areas and issues:"] = "Я хочу отримувати імейл сповіщення про події в моїх темах та спільнотах:";
 ["Id"] = "Id";
 ["Identification"] = "Ідентифікатор";
-["If this link is not working, please open following url in your web browser:\n\n"] = "Sollte der Link nicht funktionieren, öffne bitte die folgenden URL in Deinem Web-Browser:\n\n";
+["If this link is not working, please open following url in your web browser:\n\n"] = "Якщо цей лінк не працює, будь-ласка відкрийте наступний url в вашому браузері:\n\n";
 ["Ignore Areas"] = "Ignoriere Bereiche";
-["Ignore initiative"] = "Initiative ignorieren";
+["Ignore initiative"] = "Ігнорування ініціативи";
 ["Ignore member"] = "Mitglied ignorieren";
 ["Images"] = "Bilder";
 ["Implicitly admitted"] = "Implizit zugelassen";
