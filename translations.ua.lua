@@ -131,7 +131,7 @@ return {
 ["Choose initiator"] = "Initiator auswählen";
 ["Choose member"] = "Mitglied auswählen";
 ["Closed"] = "geschlossen";
-["Closed issues"] = "Geschlossene Themen";
+["Closed issues"] = "Закриті питання";
 ["Closed user group, please login to participate."] = "Geschlossene Benutzergruppe: Bitte melde dich an um teilzunehmen.";
 ["Collective opinion of supporters"] = "Meinungsbild der Unterstützer";
 ["Commit suggestion"] = "Anregung speichern";
