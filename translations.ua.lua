@@ -267,8 +267,8 @@ return {
 ["Implicitly admitted"] = "Implizit zugelassen";
 ["Incoming delegations"] = "Делегували";
 ["Index"] = "Індекс";
-["Indirect majority"] = "Indirekte Mehrheit";
-["Indirect majority denumerator"] = "Indirekte Mehrheit Denumerator";
+["Indirect majority"] = "Непряма більшість";
+["Indirect majority denumerator"] = "Знаменник непрямої більшості";
 ["Indirect majority non negative"] = "Indirekte Mehrheit Nicht-Negativ";
 ["Indirect majority numerator"] = "Indirekte Mehrheit Numerator";
 ["Indirect majority positive"] = "Indirekte Mehrheit Positiv";
