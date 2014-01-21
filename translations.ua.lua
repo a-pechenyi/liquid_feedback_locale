@@ -255,7 +255,7 @@ return {
 ["Hint"] = "Підказка";
 ["History"] = "Historie";
 ["Home"] = "Startseite";
-["I consider suggestion as"] = "Ich halte die Anregung für";
+["I consider suggestion as"] = "Я вважаю що пропозицію";
 ["I like to receive notifications by email about events in my areas and issues:"] = "Ich möchte per E-Mail über die folgenden Ereignisse in meinen Themenbereichen und Themen informiert werden:";
 ["Id"] = "Id";
 ["Identification"] = "Identifikation";
