@@ -507,11 +507,11 @@ return {
 ["Resend activation email to '#{email}'"] = "Повторити повідомлення для активації адреси '#{email}'";
 ["Reset code"] = "Rücksetzcode";
 ["Reset code is invalid!"] = "Rücksetzcode ist ungültig";
-["Reset password"] = "Kennwort zurücksetzen";
-["Revoke initiative"] = "Initiative zurückziehen";
+["Reset password"] = "Забули пароль";
+["Revoke initiative"] = "Відкликати ініціативу";
 ["Revoked at"] = "Zurückgezogen am/um";
 ["Saturday"] = "Samstag";
-["Save"] = "Speichern";
+["Save"] = "Зберегти";
 ["Save current filter"] = "Aktuellen Filter speichern";
 ["Save timeline filters"] = "Zeitachsen-Filter speichern";
 ["Saved as contact"] = "Als Kontakt gespeichert";
