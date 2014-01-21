@@ -642,11 +642,11 @@ return {
 ["Units"] = "Спільноти";
 ["Units and areas"] = "Спільноти та Теми";
 ["Unknown author"] = "Unbekannter Autor";
-["Update voting comment"] = "Abstimmungskommentar ändern";
+["Update voting comment"] = "Оновити коментарі голосування";
 ["Updated drafts"] = "Neue Entwürfe";
-["Upload avatar/photo"] = "Avatar/Foto hochladen";
+["Upload avatar/photo"] = "Додати аватар/фото";
 ["Upload images"] = "Bilder hochladen";
-["Use terms"] = "Nutzungsbedingungen";
+["Use terms"] = "Умови користування";
 ["Verification started"] = "Phase Eingefroren gestartet";
 ["Verification starts soon"] = "Phase Eingefroren startet in Kürze";
 ["Verification time"] = "Zeit für Eingefroren";
