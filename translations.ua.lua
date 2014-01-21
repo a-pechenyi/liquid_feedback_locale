@@ -526,9 +526,9 @@ return {
 ["Search issues"] = "Suche Themen";
 ["Search members"] = "Suche Mitglieder";
 ["Search results for: '#{search}'"] = "Suchergebnisse für: '#{search}'";
-["Search term (only complete words)"] = "Suchbegriff(e) (nur ganze Wörter)";
-["Select language"] = "Sprache wählen";
-["Select language \"#{langcode}\""] = "Вибрати мову \"#{langcode}\"";
+["Search term (only complete words)"] = "Критерій пошуку (тільки повні слова)";
+["Select language"] = "Обрати мову";
+["Select language \"#{langcode}\""] = "Обрати мову \"#{langcode}\"";
 ["Send invite?"] = "Einladung schicken?";
 ["Set URL"] = "URL setzen";
 ["Set delegation for Area '#{name}'"] = "Delegation für Themenbereich '#{name}' festlegen";
