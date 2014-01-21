@@ -468,8 +468,8 @@ return {
 ["Please enter your new password twice."] = "Bitte gib Dein neues Kennwort zweimal ein:";
 ["Please select your preferred notification level"] = "Будь-ласка оберіть ваш бажаний рівень сповіщень";
 ["Policies"] = "Процедури";
-["Policy"] = "Regelwerk";
-["Policy '#{name}'"] = "Regelwerk '#{name}'";
+["Policy"] = "Процедура";
+["Policy '#{name}'"] = "Процедура '#{name}'";
 ["Policy list"] = "Liste der Regelwerke";
 ["Polling mode"] = "Befragungsmodus";
 ["Population"] = "Grundgesamtheit";
