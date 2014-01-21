@@ -790,8 +790,8 @@ return {
 ["should not"] = "не бажано";
 ["the following login is connected to this email address:\n\n"] = "der folgende Anmeldename ist mit dieser E-Mail-Adresse verknüpft:\n\n";
 ["to reset your password please click on the following link:\n\n"] = "um Dein Kennwort zurückzusetzen klicke bitte den folgenden Link an:\n\n";
-["unit"] = "Gliederung";
-["unit / area"] = "Gliederung / Themengebiet";
+["unit"] = "Спільнота";
+["unit / area"] = "Спільнота / Тема";
 ["until"] = "bis";
 ["variable"] = "variabel";
 ["with winner"] = "mit Gewinner";
