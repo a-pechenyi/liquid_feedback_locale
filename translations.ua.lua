@@ -519,8 +519,8 @@ return {
 ["Schulze rank"] = "Schulze-Rang";
 ["Screen name"] = "Ім’я користувача";
 ["Search"] = "Пошук";
-["Search context"] = "Suchkontext";
-["Search for issues"] = "Nach Themen suchen";
+["Search context"] = "Контекст пошуку";
+["Search for issues"] = "Пошук питань";
 ["Search for members"] = "Nach Mitgliedern suchen";
 ["Search initiatives"] = "Suche Initiativen";
 ["Search issues"] = "Suche Themen";
