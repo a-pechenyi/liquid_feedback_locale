@@ -461,7 +461,7 @@ return {
 ["Please confirm your email address by clicking the following link:\n\n"] = "Будь-ласка підтвердіть вашу Email адресу натиснувши наступний лінк:\n\n";
 ["Please decide for each delegation to confirm or to revoke it!"] = "Für jede Delegation muss eine Entscheidung getroffen werden!";
 ["Please enter the email reset code you have received:"] = "Bitte gib den Rücksetzcode ein, den Du erhalten hast:";
-["Please enter the invite code you've received."] = "Bitte gib den Einladungscode ein, den Du erhalten hast.";
+["Please enter the invite code you've received."] = "Будь-ласка введіть отриманий код запрошення.";
 ["Please enter your email address. This address will be used for automatic notifications (if you request them) and in case you've lost your password. This address will not be published. After registration you will receive an email with a confirmation link."] = "Bitte gib Deine E-Mail-Adresse ein. Diese Adresse wird für automatische Benachrichtigungen (wenn Du diese anforderst) sowie zum Zurücksetzen des Kennworts verwendet. Diese Adresse wird nicht veröffentlicht. Nach Abschluss der Registrierung wirst Du eine E-Mail mit einem Link zum Bestätigen der Adresse erhalten.";
 ["Please enter your email address. You will receive an email with your login name."] = "Bitte die E-Mail-Adresse eingeben. An diese wird eine Nachricht mit dem zugehörigen Anmeldenamen versendet.";
 ["Please enter your login name. You will receive an email with a link to reset your password."] = "Bitte gib Deinen Anmeldenamen ein. Du wirst eine E-Mail mit einem Link zum Zurücksetzen des Kennworts erhalten.";
