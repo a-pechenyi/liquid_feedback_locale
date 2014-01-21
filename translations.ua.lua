@@ -271,8 +271,8 @@ return {
 ["Indirect majority denumerator"] = "Знаменник непрямої більшості";
 ["Indirect majority non negative"] = "Непряма більшість не негативна";
 ["Indirect majority numerator"] = "Чисельник непрямої більшості";
-["Indirect majority positive"] = "Indirekte Mehrheit Positiv";
-["Information about the available policies"] = "Informationen zu den verfügbaren Regelwerken";
+["Indirect majority positive"] = "Непряма бідьшість позитивна";
+["Information about the available policies"] = "Інформація про наявні процедури";
 ["Initiated"] = "Initiiert";
 ["Initiative"] = "Initiative";
 ["Initiative ##{id}"] = "Initiative ##{id}";
