@@ -774,8 +774,8 @@ return {
 ["months [interval time left]"] = "Monate";
 ["months [interval]"] = "Monate";
 ["more unsatisfied"] = "sehr unzufrieden";
-["must"] = "muss";
-["must not"] = "darf nicht";
+["must"] = "повинно";
+["must not"] = "не повинно";
 ["neutral"] = "neutral";
 ["no reverse beat path to status quo (including ties)"] = "Kein rückwärtsgerichteter Schlagpfad zum Status Quo (Gleichstände eingeschlossen)";
 ["none"] = "kein";
