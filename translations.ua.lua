@@ -708,7 +708,7 @@ return {
 ["You have ignored this member"] = "Du ignorierst dieses Mitglied";
 ["You have not voted #{count} issue(s) you were interested in"] = "Du hast für #{count} Themen, die dich interessieren, noch nicht abgestimmt";
 ["You have to mark 'Are you sure' to revoke!"] = "Zum Zurückziehen musst Du 'Sicher?' auswählen";
-["You have voting privileges for this unit"] = "Du hast Stimmrecht in dieser Gliederung";
+["You have voting privileges for this unit"] = "Ви можете голосувати в цій спільноті";
 ["You need to be logged in, to use all features of this system."] = "Du musst eingeloggt sein, um alle Funktionen dieses Systems nutzen zu können.";
 ["You were interested"] = "Du warst interessiert";
 ["You were potential supporter"] = "Du bist potentieller Unterstützer";
