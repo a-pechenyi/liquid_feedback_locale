@@ -627,14 +627,14 @@ return {
 ["Timeline"] = "Zeitachse";
 ["Title"] = "Назва";
 ["Title (80 chars max)"] = "Назва (до 80 символів)";
-["Title of initiative"] = "Titel der Initiative";
+["Title of initiative"] = "Назва ініціативи";
 ["Today at #{time}"] = "Сьогодні о #{time}";
 ["Traditional wiki syntax"] = "Traditionelle Wiki-Syntax";
 ["Trustee"] = "Bevollmächtigter";
 ["Trustee has no voting right in this unit"] = "Bevollmächtigter hat kein Stimmrecht in dieser Gliederung";
 ["Tuesday"] = "Вівторок";
 ["Unconfirmed address"] = "Unbestätigte E-Mail";
-["Unit"] = "Gliederung";
+["Unit"] = "Спільнота";
 ["Unit '#{name}'"] = "Gliederung '#{name}'";
 ["Unit delegation"] = "Gliederungsdelegation";
 ["Unit list"] = "Liste der Gliederungen";
