@@ -97,7 +97,7 @@ return {
 ["Calculation"] = "Auszählung";
 ["Can't remove last initiator"] = "Der letzte Initiator kann nicht entfernt werden";
 ["Can't send confirmation email"] = "Bestätigungs-E-Mail kann nicht versendet werden.";
-["Cancel"] = "Abbrechen";
+["Cancel"] = "Відміна";
 ["Cancel [nullify]"] = "Aufheben";
 ["Cancel issue"] = "Thema abbrechen";
 ["Cancel issue #{id}"] = "Thema #{id} abbrechen";
