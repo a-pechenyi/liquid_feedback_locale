@@ -550,7 +550,7 @@ return {
 ["Show only events which match... (or associtated)"] = "Zeige nur Ereignisse welche folgendes erfüllen... (oder-verknüpft)";
 ["Show policies in use"] = "Zeige Regelwerke in Verwendung";
 ["Show policies not in use"] = "Zeige deaktivierte Regelwerke";
-["Show profile"] = "Переглянути профіль";
+["Show profile"] = "Показати профіль";
 ["So I'm"] = "Also bin ich";
 ["Software"] = "Software";
 ["Sorry, but there is not confirmed email address for your account. Please contact the administrator or support."] = "Sorry, aber für diesen Account ist keine bestätigte E-Mail-Adresse hinterlegt. Bitte wende Dich an den Administrator oder den Support.";
