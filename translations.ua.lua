@@ -251,8 +251,8 @@ return {
 ["Hide"] = "Verstecken";
 ["Hide active units"] = "Aktive units ausblenden";
 ["Hide filter details"] = "Filter-Details verstecken";
-["Hide this help message"] = "Diesen Hilfetext ausblenden";
-["Hint"] = "Hinweis";
+["Hide this help message"] = "Сховати цю підказку";
+["Hint"] = "Підказка";
 ["History"] = "Historie";
 ["Home"] = "Startseite";
 ["I consider suggestion as"] = "Ich halte die Anregung für";
