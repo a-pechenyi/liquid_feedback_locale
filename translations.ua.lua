@@ -649,7 +649,7 @@ return {
 ["Use terms"] = "Умови користування";
 ["Verification started"] = "Phase Eingefroren gestartet";
 ["Verification starts soon"] = "Phase Eingefroren startet in Kürze";
-["Verification time"] = "Zeit für Eingefroren";
+["Verification time"] = "Час на перевірку";
 ["Version"] = "Версія";
 ["Vote now"] = "Jetzt abstimmen";
 ["Voted"] = "Abgestimmt";
