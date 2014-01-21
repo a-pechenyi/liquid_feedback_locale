@@ -318,8 +318,8 @@ return {
 ["Issue pad"] = "Pad zum Thema";
 ["Issue quorum"] = "Кворум по питанню";
 ["Issue quorum denumerator"] = "Знаменник кворуму по питанню";
-["Issue quorum numerator"] = "Themen-Quorum Zähler";
-["Issue reached next phase"] = "Thema hat die nächste Phase erreicht";
+["Issue quorum numerator"] = "Чисельник кворуму по питанню";
+["Issue reached next phase"] = "Питання досягло наступної фази";
 ["Issues:"] = "Themen:";
 ["JavaScript is disabled or not available."] = "JavaScript ist abgeschaltet oder nicht verfügbar.";
 ["Last activity (updated daily)"] = "Letzte Aktivität (täglich aktualisiert)";
