@@ -241,7 +241,7 @@ return {
 ["Fully frozen at"] = "Ganz eingefroren am/um";
 ["Generate API key"] = "API-Schlüssel erzeugen";
 ["Global delegation"] = "Globale Delegation";
-["Global search"] = "Globale Suche";
+["Global search"] = "Глобальний пошук";
 ["Half frozen at"] = "Halb eingefroren am/um";
 ["Hello\n\n"] = "Hallo\n\n";
 ["Hello "] = "Hallo ";
