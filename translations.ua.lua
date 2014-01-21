@@ -370,8 +370,8 @@ return {
 ["Monday"] = "Понеділок";
 ["Move down"] = "Runter schieben";
 ["Move up"] = "Hoch schieben";
-["My areas"] = "Meine Themengebiete";
-["My areas and issues"] = "Meine Themengebiete und Themen";
+["My areas"] = "Мої Теми";
+["My areas and issues"] = "Мої Теми та Питання";
 ["My opinion"] = "Meine Meinung";
 ["My units"] = "Meine Gliederungen";
 ["Name"] = "Ім'я";
