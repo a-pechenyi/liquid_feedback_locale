@@ -331,8 +331,8 @@ return {
 ["List all revisions (#{count})"] = "Zeige alle Versionen (#{count})";
 ["Lock member?"] = "Mitglied sperren?";
 ["Locked?"] = "Gesperrt?";
-["Login"] = "Anmeldung";
-["Login name"] = "Anmeldename";
+["Login"] = "Вхід";
+["Login name"] = "Логін";
 ["Login name request"] = "Anmeldename anfordern";
 ["Login-Name: "] = "Anmeldename: ";
 ["Logout"] = "Abmelden";
