@@ -335,11 +335,11 @@ return {
 ["Login name"] = "Логін";
 ["Login name request"] = "Anmeldename anfordern";
 ["Login-Name: "] = "Anmeldename: ";
-["Logout"] = "Abmelden";
+["Logout"] = "Вихід";
 ["Logout successful"] = "Abmeldung erfolgreich";
 ["Manage filter"] = "Filter verwalten";
 ["Manage timeline filters"] = "Zeitachsen-Filter verwalten";
-["Member"] = "Mitglied";
+["Member"] = "Учасник";
 ["Member '#{member}'"] = "Mitglied '#{member}'";
 ["Member has been removed from initiators"] = "Mitglied wurde von den Initiatoren entfernt";
 ["Member has been removed from your contacts"] = "Mitglied wurde aus Deinen Kontakten entfernt";
