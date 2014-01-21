@@ -564,8 +564,8 @@ return {
 ["Status"] = "Статус";
 ["Status quo: #{rank}"] = "Status quo: #{rank}";
 ["Stop ignoring member"] = "nicht mehr ignorieren";
-["Strict direct majority"] = "Strenge direkte Mehrheit";
-["Strict indirect majority"] = "Strenge indirekte Mehrheit";
+["Strict direct majority"] = "Сувора пряма більшість";
+["Strict indirect majority"] = "Сувора непряма більшість";
 ["Stylesheet URL"] = "Stylesheet URL";
 ["Stylesheet URL has been updated"] = "Stylesheet URL wurde aktualisiert";
 ["Suggest no initiative"] = "Keine Initiative empfehlen";
