@@ -150,7 +150,7 @@ return {
 ["Create new area"] = "Створити нову Тему";
 ["Create new issue"] = "Створити нове питання";
 ["Create new policy"] = "Створити нову процедуру";
-["Create new unit"] = "Neue Gliederung anlegen";
+["Create new unit"] = "Створити нову спільноту";
 ["Created at"] = "Створено";
 ["Current name"] = "Aktueller Name";
 ["Current phase is already closed."] = "Die aktuelle Phase ist schon abgeschlossen.";
