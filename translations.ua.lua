@@ -59,7 +59,7 @@ return {
 ["All areas in my units"] = "Всі Теми в моїх спільнотах";
 ["All issues"] = "Всі Питання";
 ["All of them"] = "Alle Benachrichtigungen";
-["All units"] = "Усі розділи";
+["All units"] = "Всі Спільноти";
 ["Any"] = "Усі";
 ["Any phase"] = "Alle Phasen";
 ["Any state"] = "Alle Zustände";
