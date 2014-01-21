@@ -581,8 +581,8 @@ return {
 ["Support this initiative"] = "Підтримати ініціативу";
 ["Supported"] = "Підтримка";
 ["Supporters"] = "Підтримують";
-["Supporters (before begin of voting)"] = "Unterstützer (zum Abstimmungesbeginn)";
-["Syntax help"] = "Syntax-Hilfe";
+["Supporters (before begin of voting)"] = "Підтримують (до початку голосування)";
+["Syntax help"] = "Синтаксис";
 ["Terms of use"] = "Умови користування";
 ["The code you've entered is invalid"] = "Der Code, den Du eingeben hast, ist nicht gültig!";
 ["The draft of this initiative has been updated!"] = "Der Entwurfstext der Initiative wurde aktualisiert!";
