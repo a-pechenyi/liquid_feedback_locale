@@ -316,8 +316,8 @@ return {
 ["Issue frozen"] = "Thema eingefroren";
 ["Issue has been canceled"] = "Thema wurde abgebrochen";
 ["Issue pad"] = "Pad zum Thema";
-["Issue quorum"] = "Quorum Thema";
-["Issue quorum denumerator"] = "Themen-Quorum Nenner";
+["Issue quorum"] = "Кворум по питанню";
+["Issue quorum denumerator"] = "Знаменник кворуму по питанню";
 ["Issue quorum numerator"] = "Themen-Quorum Zähler";
 ["Issue reached next phase"] = "Thema hat die nächste Phase erreicht";
 ["Issues:"] = "Themen:";
