@@ -737,7 +737,7 @@ return {
 ["[event mail] Event: #{event}"] = " Подія: #{event}";
 ["[event mail] Issue: ##{id}"] = " Питання: ##{id}";
 ["[event mail] Phase: #{phase}"] = " Фаза: #{phase}";
-["[event mail]    Policy: #{policy}"] = "   Regelwerk: #{policy}";
+["[event mail] Policy: #{policy}"] = " Процедура: #{policy}";
 ["[not displayed public]"] = "[nicht öffentlich]";
 ["a bit unsatisfied"] = "etwas unzufrieden";
 ["abandoned"] = "ausgesetzt";
