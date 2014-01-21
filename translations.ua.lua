@@ -134,10 +134,10 @@ return {
 ["Closed issues"] = "Закриті питання";
 ["Closed user group, please login to participate."] = "Закрита група користувачів. Будь-ласка увійдіть для участі.";
 ["Collective opinion of supporters"] = "Загальна думка";
-["Commit suggestion"] = "Anregung speichern";
+["Commit suggestion"] = "Подати пропозицію";
 ["Compare"] = "Vergleichen";
 ["Configure notifications now"] = "Benachrichtigungen jetzt konfigurieren";
-["Confirm"] = "Bestätigen";
+["Confirm"] = "Підтвердити";
 ["Confirmation code"] = "Код підтвердження";
 ["Confirmation code invalid!"] = "Невірний код підтвердження!";
 ["Confirmed address"] = "Підтверджений email";
