@@ -133,7 +133,7 @@ return {
 ["Closed"] = "geschlossen";
 ["Closed issues"] = "Закриті питання";
 ["Closed user group, please login to participate."] = "Закрита група користувачів. Будь-ласка увійдіть для участі.";
-["Collective opinion of supporters"] = "Meinungsbild der Unterstützer";
+["Collective opinion of supporters"] = "Загальна думка";
 ["Commit suggestion"] = "Anregung speichern";
 ["Compare"] = "Vergleichen";
 ["Configure notifications now"] = "Benachrichtigungen jetzt konfigurieren";
