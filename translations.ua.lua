@@ -194,8 +194,8 @@ return {
 ["Disapproval [single entry]"] = "Несхвалення";
 ["Discard voting"] = "Відмінити голос";
 ["Discuss with initiators"] = "Дискутувати з ініціаторами";
-["Discussion"] = "Diskussion";
-["Discussion URL"] = "Diskussions-URL";
+["Discussion"] = "Дискусія";
+["Discussion URL"] = "URL дискусії";
 ["Discussion on issue"] = "Diskussion zum Thema";
 ["Discussion started"] = "Diskussion gestartet";
 ["Discussion starts soon"] = "Diskussion startet in Kürze";
