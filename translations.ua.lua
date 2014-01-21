@@ -280,7 +280,7 @@ return {
 ["Initiative i#{id}: #{name}"] = "Ініціатива  i#{id}: #{name}";
 ["Initiative is revoked now"] = "Ініціатива тепер відкликана";
 ["Initiative quorum"] = "Кворум по ініціативі";
-["Initiative quorum denumerator"] = "Initiativ-Quorum Nenner";
+["Initiative quorum denumerator"] = "Знаменник кворуму по ініціативі";
 ["Initiative quorum numerator"] = "Initiativ-Quorum Zähler";
 ["Initiative revoked"] = "Initiative zurückgezogen";
 ["Initiative successfully created"] = "Initiative erfolgreich erzeugt";
