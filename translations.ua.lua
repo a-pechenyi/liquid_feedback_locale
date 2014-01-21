@@ -466,8 +466,8 @@ return {
 ["Please enter your email address. You will receive an email with your login name."] = "Bitte die E-Mail-Adresse eingeben. An diese wird eine Nachricht mit dem zugehörigen Anmeldenamen versendet.";
 ["Please enter your login name. You will receive an email with a link to reset your password."] = "Bitte gib Deinen Anmeldenamen ein. Du wirst eine E-Mail mit einem Link zum Zurücksetzen des Kennworts erhalten.";
 ["Please enter your new password twice."] = "Bitte gib Dein neues Kennwort zweimal ein:";
-["Please select your preferred notification level"] = "Bitte wähle das gewünschte Benachrichtigungslevel";
-["Policies"] = "Regelwerke";
+["Please select your preferred notification level"] = "Будь-ласка оберіть ваш бажаний рівень сповіщень";
+["Policies"] = "Процедури";
 ["Policy"] = "Regelwerk";
 ["Policy '#{name}'"] = "Regelwerk '#{name}'";
 ["Policy list"] = "Liste der Regelwerke";
