@@ -754,7 +754,7 @@ return {
 ["day [interval]"] = "день";
 ["days [interval ago]"] = "днів";
 ["days [interval time left]"] = "днів";
-["days [interval]"] = "Tage";
+["days [interval]"] = "днів";
 ["deactivated"] = "deaktiviert";
 ["delegated to"] = "delegiert an";
 ["delegates to"] = "delegiert an";
@@ -763,7 +763,7 @@ return {
 ["email"] = "E-Mail";
 ["global"] = "Global";
 ["i#{id}: #{name}"] = false;
-["implemented"] = "umgesetzt";
+["implemented"] = "реалізовано";
 ["inactive"] = "inaktiv";
 ["last 24 hours"] = "letzte 24 Stunden";
 ["login name"] = "Anmeldename";
