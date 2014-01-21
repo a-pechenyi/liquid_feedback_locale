@@ -537,7 +537,7 @@ return {
 ["Set new password"] = "Neues Kennwort setzen";
 ["Set unit delegation"] = "Delegation für Gliederung setzen";
 ["Settings"] = "Налаштування";
-["Show"] = "Zeige";
+["Show"] = "Показати";
 ["Show areas in use"] = "Zeige verwendete Themenbereiche";
 ["Show areas not in use"] = "Zeige nicht verwendete Themenbereiche";
 ["Show diff"] = "Änderungen anzeigen";
@@ -545,7 +545,7 @@ return {
 ["Show help text"] = "Zeige Hilfe-Text";
 ["Show inactive units"] = "Zeige deaktivierte Gliederungen";
 ["Show member"] = "Mitglied anzeigen";
-["Show member history"] = "Historie des Mitglieds anzeigen";
+["Show member history"] = "Показати історію учасника";
 ["Show older events"] = "Zeige ältere Ereignisse";
 ["Show only events which match... (or associtated)"] = "Zeige nur Ereignisse welche folgendes erfüllen... (oder-verknüpft)";
 ["Show policies in use"] = "Zeige Regelwerke in Verwendung";
