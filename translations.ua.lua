@@ -653,9 +653,9 @@ return {
 ["Version"] = "Версія";
 ["Vote now"] = "Голосувати зараз";
 ["Voted"] = "Проголосовані";
-["Voted no"] = "Mit Nein gestimmt";
-["Voted yes"] = "Mit Ja gestimmt";
-["Voters"] = "Abstimmende";
+["Voted no"] = "Проголосоване ПРОТИ";
+["Voted yes"] = "Проголосоване ЗА";
+["Voters"] = "Голосували";
 ["Voting"] = "Abstimmung";
 ["Voting comment"] = "Abstimmungskommentar";
 ["Voting comment (last updated: #{timestamp})"] = "Abstimmmungskommentar (Letzte Änderung: #{timestamp})";
