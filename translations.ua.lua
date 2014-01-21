@@ -124,8 +124,8 @@ return {
 ["Change vote"] = "Змінити голос";
 ["Change your login"] = "Змінити свій логін";
 ["Change your notification email address"] = "Змінити свій імейл для сповіщень";
-["Change your password"] = "Dein Kennwort ändern";
-["Change your screen name"] = "Deinen Screen-Namen ändern";
+["Change your password"] = "Змінити свій пароль";
+["Change your screen name"] = "Змінити своє ім’я на сайті";
 ["Check delegations"] = "Delegationen pr\000fen";
 ["Check your delegations!"] = "Delegationen pr\000fen!";
 ["Choose initiator"] = "Initiator auswählen";
