@@ -121,7 +121,7 @@ return {
 ["Change order"] = "Змінити порядок";
 ["Change password"] = "Змінити пароль";
 ["Change unit delegation"] = "Delegation für Gliederung ändern";
-["Change vote"] = "Abstimmung ändern";
+["Change vote"] = "Змінити голос";
 ["Change your login"] = "Deinen Anmeldenamen ändern";
 ["Change your notification email address"] = "Deine E-Mail-Adresse für Benachrichtigungen ändern";
 ["Change your password"] = "Dein Kennwort ändern";
