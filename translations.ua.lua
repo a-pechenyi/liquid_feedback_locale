@@ -192,8 +192,8 @@ return {
 ["Disapproval (prefer to lower blocks) [single entry]"] = "Ablehnung (jedoch Bevorzugung gegenüber unteren Ablehnungsblöcken)";
 ["Disapproval [many entries]"] = "Несхвалення";
 ["Disapproval [single entry]"] = "Несхвалення";
-["Discard voting"] = "Abstimmung zurückziehen";
-["Discuss with initiators"] = "Diskussion mit den Initiatoren";
+["Discard voting"] = "Відмінити голос";
+["Discuss with initiators"] = "Дискутувати з ініціаторами";
 ["Discussion"] = "Diskussion";
 ["Discussion URL"] = "Diskussions-URL";
 ["Discussion on issue"] = "Diskussion zum Thema";
