@@ -576,10 +576,10 @@ return {
 ["Suggestion currently not implemented"] = "Пропозиція зараз не реалізована";
 ["Suggestion does not exist anymore"] = "Anregung existiert nicht mehr";
 ["Suggestion for initiative: '#{name}'"] = "Пропозиція до ініціативи: '#{name}'";
-["Suggestions"] = "Anregungen";
+["Suggestions"] = "Пропозиції";
 ["Sunday"] = "Неділя";
-["Support this initiative"] = "Diese Initiative unterstützen";
-["Supported"] = "Unterstützt";
+["Support this initiative"] = "Підтримати ініціативу";
+["Supported"] = "Підтримка";
 ["Supporters"] = "Unterstützer";
 ["Supporters (before begin of voting)"] = "Unterstützer (zum Abstimmungesbeginn)";
 ["Syntax help"] = "Syntax-Hilfe";
