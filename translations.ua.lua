@@ -764,9 +764,9 @@ return {
 ["global"] = "Global";
 ["i#{id}: #{name}"] = false;
 ["implemented"] = "реалізовано";
-["inactive"] = "inaktiv";
+["inactive"] = "неактивний";
 ["last 24 hours"] = "letzte 24 Stunden";
-["login name"] = "Anmeldename";
+["login name"] = "Логін";
 ["month [interval ago]"] = "Monat";
 ["month [interval time left]"] = "Monat";
 ["month [interval]"] = "Monat";
