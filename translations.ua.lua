@@ -296,10 +296,10 @@ return {
 ["Interested members"] = "Зацікавлені учасники";
 ["Internal posts"] = "Interne Ämter";
 ["Interval format:"] = "Формат інтервала:";
-["Invalid login name or password!"] = "Anmeldename oder Kennwort ungültig";
+["Invalid login name or password!"] = "Невірний логін або пароль!";
 ["Invalid query"] = "Ungültige Anfrage";
 ["Invitation has been refused"] = "Einladung wurde widerrufen";
-["Invitation to LiquidFeedback"] = "Einladung zu LiquidFeedback";
+["Invitation to LiquidFeedback"] = "Запрошення до LiquidFeedback";
 ["Invite an initiator to initiative"] = "Initiator zur Initiative einladen";
 ["Invite code"] = "Einladungscode";
 ["Invite initiator"] = "Initiator einladen";
