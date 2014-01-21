@@ -470,9 +470,9 @@ return {
 ["Policies"] = "Процедури";
 ["Policy"] = "Процедура";
 ["Policy '#{name}'"] = "Процедура '#{name}'";
-["Policy list"] = "Liste der Regelwerke";
-["Polling mode"] = "Befragungsmodus";
-["Population"] = "Grundgesamtheit";
+["Policy list"] = "Список процедур";
+["Polling mode"] = "Режим опитування";
+["Population"] = "Популяція";
 ["Posts"] = "Ämter";
 ["Potential supported"] = "Potentiell unterstützt";
 ["Potential supporters"] = "Potentielle Unterstützer";
