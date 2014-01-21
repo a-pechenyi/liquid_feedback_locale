@@ -454,7 +454,7 @@ return {
 ["Please choose a member"] = "Bitte wähle ein Mitglied";
 ["Please choose a name, i.e. your real name or your nick name. This name will be shown to others to identify you."] = "Будь-ласка оберіть ім’я - справжнє або псевдонім. Це ім’я буде видно іншим для вашої ідентифікації.";
 ["Please choose a password and enter it twice. The password is case sensitive."] = "Будь-ласка оберіть пароль та введіть його двічі. Пароль чутливий до регістру.";
-["Please choose a policy"] = "Bitte wähle ein Regelwerk";
+["Please choose a policy"] = "Виберіть процедуру";
 ["Please choose two different versions of the draft to compare"] = "Bitte wähle zwei verschiedene Versionen des Entwurfs, um sie zu vergleichen.";
 ["Please choose two versions of the draft to compare"] = "Bitte wähle zwei Versionen des Entwurfs, um sie zu vergleichen.";
 ["Please confirm your email address"] = "Bitte bestätige Deine E-Mail-Adresse";
