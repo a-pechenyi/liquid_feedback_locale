@@ -575,7 +575,7 @@ return {
 ["Suggestion currently implemented"] = "Пропозиція зараз реалізована";
 ["Suggestion currently not implemented"] = "Пропозиція зараз не реалізована";
 ["Suggestion does not exist anymore"] = "Anregung existiert nicht mehr";
-["Suggestion for initiative: '#{name}'"] = "Anregung für Initiative '#{name}'";
+["Suggestion for initiative: '#{name}'"] = "Пропозиція до ініціативи: '#{name}'";
 ["Suggestions"] = "Anregungen";
 ["Sunday"] = "Неділя";
 ["Support this initiative"] = "Diese Initiative unterstützen";
