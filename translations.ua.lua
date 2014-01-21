@@ -667,7 +667,7 @@ return {
 ["Voting starts soon"] = "Abstimmung beginnt in Kürze";
 ["Voting time"] = "Час на голосування";
 ["We couldn't deliver a confirmation mail to this address. Please check entered email address."] = "Wir konnten keine Bestätigungs-E-Mail versenden. Bitte überprüfe die E-Mail-Adresse.";
-["We have sent an email with activation link already in the last hour. Please try again later."] = "Wir haben bereits innerhalb der letzten Stunde eine E-Mail mit Bestätigungslink gesendet. Bitte versuche es später erneut.";
+["We have sent an email with activation link already in the last hour. Please try again later."] = "Ми вже надсилали імейл для активації протягом години. Будь-ласка спробуйте пізніше.";
 ["Website"] = "Webseite";
 ["Wednesday"] = "Середа";
 ["Wiki engine"] = "Wiki engine";
