@@ -692,7 +692,7 @@ return {
 ["You are not participating in any of the #{count} areas in this unit"] = "Ви не долучились до жодної з #{count} теми в цій спільноті";
 ["You are not participating in the only area of the unit"] = "Ви не долучились до єдиної теми в цій спільноті";
 ["You are now initiator of this initiative"] = "Du bist jetzt Initiator dieser Initiative";
-["You are participating in this area"] = "Du bist Teilnehmer im Themengebiet";
+["You are participating in this area"] = "Ви долучені до цієї теми";
 ["You are potential supporter"] = "Du bist potentieller Unterstützer";
 ["You are potential supporter of this initiative"] = "Du bist potentieller Unterstützer der Initiative";
 ["You are potential supporter of this initiative via delegation"] = "Du bist durch Delegation potentieller Unterstützer der Initiative";
