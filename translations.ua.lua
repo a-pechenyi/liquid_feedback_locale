@@ -397,11 +397,11 @@ return {
 ["No more events available"] = "Keine weiteren Ereignisse verfügbar";
 ["No multistage majority"] = "Без багатоступеневої більшості";
 ["No notifications at all"] = "Зовсім ніяких сповіщень";
-["No potential supporters"] = "Keine potentiellen Unterstützer";
+["No potential supporters"] = "Нема потенційних прихильників";
 ["No potential supporters (before begin of voting)"] = "Keine potentiellen Unterstützer (zum Abstimmungsbeginn)";
 ["No reverse beat path"] = "Kein rückwärtsgerichteter Schlagpfad";
 ["No suggestions"] = "Keine Anregungen";
-["No suggestions yet"] = "Noch keine Anregungen";
+["No suggestions yet"] = "Поки нема пропозицій";
 ["No supporters"] = "Keine Unterstützer";
 ["No supporters (before begin of voting)"] = "Keine Unterstützer (zum Abstimmungsbeginn)";
 ["Not a member"] = "Kein Mitglied";
