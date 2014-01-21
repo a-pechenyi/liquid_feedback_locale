@@ -258,7 +258,7 @@ return {
 ["I consider suggestion as"] = "Я вважаю що пропозицію";
 ["I like to receive notifications by email about events in my areas and issues:"] = "Я хочу отримувати імейл сповіщення про події в моїх темах та спільнотах:";
 ["Id"] = "Id";
-["Identification"] = "Identifikation";
+["Identification"] = "Ідентифікатор";
 ["If this link is not working, please open following url in your web browser:\n\n"] = "Sollte der Link nicht funktionieren, öffne bitte die folgenden URL in Deinem Web-Browser:\n\n";
 ["Ignore Areas"] = "Ignoriere Bereiche";
 ["Ignore initiative"] = "Initiative ignorieren";
