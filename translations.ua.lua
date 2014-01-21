@@ -432,8 +432,8 @@ return {
 ["Only for issues reaching the voting phase"] = "Питання, що досягли фази голосування";
 ["Open"] = "Відкриті";
 ["Open initiatives you are supporting which has been updated their draft:"] = "Offene, von dir unterstützte Initiativen, deren Antragstext aktualisiert wurde:";
-["Open issues"] = "Offene Themen";
-["Opinions"] = "Meinungen";
+["Open issues"] = "Відкриті питання";
+["Opinions"] = "Думки";
 ["Options"] = "Optionen";
 ["Organizational unit"] = "Organisationseinheit";
 ["Other failures"] = "Weitere Mängel";
