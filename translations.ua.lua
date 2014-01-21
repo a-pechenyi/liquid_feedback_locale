@@ -457,7 +457,7 @@ return {
 ["Please choose a policy"] = "Виберіть процедуру";
 ["Please choose two different versions of the draft to compare"] = "Bitte wähle zwei verschiedene Versionen des Entwurfs, um sie zu vergleichen.";
 ["Please choose two versions of the draft to compare"] = "Bitte wähle zwei Versionen des Entwurfs, um sie zu vergleichen.";
-["Please confirm your email address"] = "Bitte bestätige Deine E-Mail-Adresse";
+["Please confirm your email address"] = "Будь-ласка підтвердіть вашу Email адресу";
 ["Please confirm your email address by clicking the following link:\n\n"] = "Bitte bestätige Deine E-Mail-Adresse durch Klick auf folgenden Link:\n\n";
 ["Please decide for each delegation to confirm or to revoke it!"] = "Für jede Delegation muss eine Entscheidung getroffen werden!";
 ["Please enter the email reset code you have received:"] = "Bitte gib den Rücksetzcode ein, den Du erhalten hast:";
