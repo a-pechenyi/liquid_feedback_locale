@@ -795,8 +795,8 @@ return {
 ["until"] = "до";
 ["variable"] = "variabel";
 ["with winner"] = "з переможцем";
-["without"] = "ohne";
-["without winner"] = "ohne Gewinner";
+["without"] = "без";
+["without winner"] = "без переможця";
 ["xmpp"] = "Jabber (XMPP)";
 ["year [interval ago]"] = "Jahr";
 ["year [interval time left]"] = "Jahr";
