@@ -635,10 +635,10 @@ return {
 ["Tuesday"] = "Вівторок";
 ["Unconfirmed address"] = "Unbestätigte E-Mail";
 ["Unit"] = "Спільнота";
-["Unit '#{name}'"] = "Gliederung '#{name}'";
+["Unit '#{name}'"] = "Спільнота '#{name}'";
 ["Unit delegation"] = "Gliederungsdelegation";
 ["Unit list"] = "Liste der Gliederungen";
-["Unit: '#{name}'"] = "Gliederung: '#{name}'";
+["Unit: '#{name}'"] = "Спільнота: '#{name}'";
 ["Units"] = "Gliederungen";
 ["Units and areas"] = "Gliederungen und Themengebiete";
 ["Unknown author"] = "Unbekannter Autor";
