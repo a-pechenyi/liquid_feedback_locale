@@ -176,8 +176,8 @@ return {
 ["Description"] = "Опис";
 ["Details"] = "Деталі";
 ["Developer settings"] = "Einstellungen für Entwickler";
-["Diff"] = "Differenz";
-["Direct"] = "Direkt";
+["Diff"] = "Відмінності";
+["Direct"] = "Напряму";
 ["Direct and by delegation"] = "Direkt und delegiert";
 ["Direct majority"] = "Direkte Mehrheit";
 ["Direct majority denumerator"] = "Direkte Mehrheit Denumerator";
