@@ -587,10 +587,10 @@ return {
 ["The code you've entered is invalid"] = "Der Code, den Du eingeben hast, ist nicht gültig!";
 ["The draft of this initiative has been updated!"] = "Der Entwurfstext der Initiative wurde aktualisiert!";
 ["The drafts do not differ"] = "Die Entwürfe unterscheiden sich nicht";
-["The initiators suggest to support the following initiative:"] = "Die Initiatoren empfehlen folgende Initiative zu unterstützen:";
+["The initiators suggest to support the following initiative:"] = "Ініціатор пропонує підтримати наступну ініціативу:";
 ["This email address is too short!"] = "Diese E-Mail-Adresse ist zu kurz!";
 ["This initiative"] = "Ця ініціатива";
-["This initiative has been revoked at #{revoked}"] = "Diese Initiative wurde am/um #{revoked} zurückgezogen";
+["This initiative has been revoked at #{revoked}"] = "Ця ініціатива була відкликана #{revoked}";
 ["This initiative has not been admitted! It failed the quorum of #{quorum}."] = "Diese Initiative wurde nicht zugelassen. Sie hat das Quorum von #{quorum} nicht erreicht.";
 ["This initiative is already revoked"] = "Diese Initiative ist schon zurückgezogen";
 ["This initiative is revoked"] = "Diese Initiative wurde zurückgezogen";
