@@ -306,7 +306,7 @@ return {
 ["Invited"] = "Eingeladen";
 ["Issue"] = "Питання";
 ["Issue ##{id}"] = "Питання ##{id}";
-["Issue ID"] = "Thema #";
+["Issue ID"] = "Питання ID";
 ["Issue accepted"] = "Thema akzeptiert";
 ["Issue canceled"] = "Thema abgebrochen";
 ["Issue delegation"] = "Issue-Delegation";
