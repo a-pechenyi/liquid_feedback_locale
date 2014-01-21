@@ -281,7 +281,7 @@ return {
 ["Initiative is revoked now"] = "Ініціатива тепер відкликана";
 ["Initiative quorum"] = "Кворум по ініціативі";
 ["Initiative quorum denumerator"] = "Знаменник кворуму по ініціативі";
-["Initiative quorum numerator"] = "Initiativ-Quorum Zähler";
+["Initiative quorum numerator"] = "Чисельник кворуму по ініціативі";
 ["Initiative revoked"] = "Initiative zurückgezogen";
 ["Initiative successfully created"] = "Initiative erfolgreich erzeugt";
 ["Initiative successfully updated"] = "Initiative erfolgreich aktualisiert";
@@ -292,7 +292,7 @@ return {
 ["Interest not existent"] = "Interesse existiert nicht";
 ["Interest removed"] = "Interesse entfernt";
 ["Interest updated"] = "Interesse aktualisiert";
-["Interested"] = "Interessiert";
+["Interested"] = "Зацікавлений";
 ["Interested members"] = "Interessierte Mitglieder";
 ["Internal posts"] = "Interne Ämter";
 ["Interval format:"] = "Intervall-Format";
