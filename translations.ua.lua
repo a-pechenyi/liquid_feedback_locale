@@ -697,8 +697,8 @@ return {
 ["You are potential supporter of this initiative"] = "Du bist potentieller Unterstützer der Initiative";
 ["You are potential supporter of this initiative via delegation"] = "Du bist durch Delegation potentieller Unterstützer der Initiative";
 ["You are supporter"] = "Ви підтримуєте";
-["You are supporter of this initiative"] = "Du bist Unterstützer dieser Initiative";
-["You are supporter of this initiative via delegation"] = "Du bist durch Delegation Unterstützer dieser Initiative";
+["You are supporter of this initiative"] = "Ви підтримуєте цю ініціативу";
+["You are supporter of this initiative via delegation"] = "Ви підтримуєте цю ініціативу делегуванням";
 ["You can change your email address only once per hour. Please try again later."] = "Du kannst die E-Mail-Adresse nur einmal in der Stunde ändern, bitte versuche es später erneut.";
 ["You can't suggest the initiative you are revoking"] = "Du kannst nicht die Initiative empfehlen, die Du löschen möchtest";
 ["You didn't confirm your email address '#{email}' within 7 days."] = "Du hast die E-Mail-Adresse '#{email}' nicht innerhalb von 7 Tagen bestätigt.";
