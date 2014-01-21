@@ -354,7 +354,7 @@ return {
 ["Member list"] = "Список користувачів";
 ["Member menu"] = "Меню користувача";
 ["Member name"] = "Ім'я користувача";
-["Member name history for '#{name}'"] = "Namenshistorie für '#{name}'";
+["Member name history for '#{name}'"] = "Історія імені користувача '#{name}'";
 ["Member of area"] = "Mitglied des Themenbereichs";
 ["Member page"] = "Сторінка користувача";
 ["Member successfully registered"] = "Mitglied erfolgreich registriert";
