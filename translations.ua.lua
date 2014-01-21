@@ -79,8 +79,8 @@ return {
 ["Approval [single entry]"] = "Схвалення";
 ["Approved"] = "Затверджено";
 ["Are you sure?"] = "Впевнені?";
-["Area"] = "Themenbereich";
-["Area '#{name}'"] = "Themenbereich '#{name}'";
+["Area"] = "Тема";
+["Area '#{name}'"] = "Тема '#{name}'";
 ["Area delegation"] = "Delegation für Themenbereich";
 ["Area list of '#{unit_name}'"] = "Themenbereiche in '#{unit_name}'";
 ["Areas"] = "Themenbereiche";
