@@ -568,9 +568,9 @@ return {
 ["Strict indirect majority"] = "Сувора непряма більшість";
 ["Stylesheet URL"] = "Stylesheet URL";
 ["Stylesheet URL has been updated"] = "Stylesheet URL wurde aktualisiert";
-["Suggest no initiative"] = "Keine Initiative empfehlen";
-["Suggested initiative"] = "Empfohlene Initiative";
-["Suggestion"] = "Anregung";
+["Suggest no initiative"] = "Не рекомендувати іншу ініціативу";
+["Suggested initiative"] = "Пропонована ініціатива";
+["Suggestion"] = "Пропозиція";
 ["Suggestion ##{id}"] = "Anregung ##{id}";
 ["Suggestion currently implemented"] = "Anregung zur Zeit umgesetzt";
 ["Suggestion currently not implemented"] = "Anregung zur Zeit nicht umgesetzt";
