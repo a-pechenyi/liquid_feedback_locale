@@ -56,7 +56,7 @@ return {
 ["Admission time"] = "Час прийняття";
 ["Admitted"] = "Прийнято";
 ["All areas"] = "Всі області";
-["All areas in my units"] = "Alle Themengebiete in meinen Gliederungen";
+["All areas in my units"] = "Всі Теми в моїх спільнотах";
 ["All issues"] = "Усі теми";
 ["All of them"] = "Alle Benachrichtigungen";
 ["All units"] = "Усі розділи";
