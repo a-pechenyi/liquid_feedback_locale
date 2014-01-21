@@ -208,8 +208,8 @@ return {
 ["Draft"] = "Варіант";
 ["Edit"] = "Редагувати";
 ["Edit areas"] = "Редагувати Теми";
-["Edit draft"] = "Entwurf bearbeiten";
-["Edit initiative"] = "Initiative bearbeiten";
+["Edit draft"] = "Редагувати варіант";
+["Edit initiative"] = "Редагувати ініціативу";
 ["Edit my page"] = "Редагувати мою сторінку";
 ["Edit my profile"] = "Редагувати мій профіль";
 ["Edit profile"] = "Редагувати профіль";
