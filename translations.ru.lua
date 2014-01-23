@@ -469,7 +469,7 @@ return {
 ["Policy '#{name}'"] = "Правило голосования '#{name}'";
 ["Policy list"] = "Список Правил голосования";
 ["Polling mode"] = "Режим опроса";
-["Population"] = "Общее число";
+["Population"] = "Общее число участников";
 ["Posts"] = "Должности";
 ["Potential supported"] = "Поддержка возможна";
 ["Potential supporters"] = "Условные сторонники";
