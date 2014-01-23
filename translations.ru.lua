@@ -40,7 +40,7 @@ return {
 ["Abstention [many entries]"] = "Воздержалось";
 ["Abstention [single entry]"] = "Воздержалась/Воздержался";
 ["Accept invitation"] = "Принять приглашение";
-["Accepted at"] = "Принято";
+["Accepted at"] = "Принято с";
 ["Access level"] = "Право доступа";
 ["Activate account"] = "Активировать пользователя";
 ["Active?"] = "Активирован?";
