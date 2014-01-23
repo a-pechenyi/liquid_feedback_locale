@@ -240,7 +240,7 @@ return {
 ["Generate API key"] = "Сгенерировать API-Ключ";
 ["Global delegation"] = "Глобальное делегирование";
 ["Global search"] = "Глобальный поиск";
-["Half frozen at"] = "Частично в сверке ";
+["Half frozen at"] = "В сверке ";
 ["Hello\n\n"] = "Здравствуйте\n\n";
 ["Hello "] = "Здравствуйте ";
 ["Hello,\n\n"] = "Здравствуйте,\n\n";
