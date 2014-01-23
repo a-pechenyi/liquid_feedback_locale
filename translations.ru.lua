@@ -236,7 +236,7 @@ return {
 ["Free timing"] = "Свободный тайминг";
 ["Friday"] = "Пятница";
 ["Frozen"] = "Сверка";
-["Fully frozen at"] = "Полностью в сверке ";
+["Fully frozen at"] = "В голосовании с";
 ["Generate API key"] = "Сгенерировать API-Ключ";
 ["Global delegation"] = "Глобальное делегирование";
 ["Global search"] = "Глобальный поиск";
