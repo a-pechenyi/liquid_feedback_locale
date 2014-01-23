@@ -159,7 +159,7 @@ return {
 ["Current unit and area delegations need confirmation"] = "Актуальные делегирования Сообщества и Темы требуют подтверждения";
 ["Current votings in areas you are member of and issues you are interested in:"] = "Актуальные голосования по интересующим Вас Тем и по интересующим Вас Вопросам:";
 ["Currently no API key is set."] = "Сейчас API - ключ не установлен.";
-["Currently required"] = "Сейчас необходим(а/ы)";
+["Currently required"] = "Сейчас необходимы (участники)";
 ["Database download"] = "Скачать базу данных";
 ["Date format is not valid. Please use following format: YYYY-MM-DD"] = "Формат даты не верен. Используйте: ГГГГ-ММ-ДД, например 1945-05-23";
 ["Default Policy"] = "Стандартное Правило голосования";
