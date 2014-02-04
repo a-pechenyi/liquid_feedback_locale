@@ -58,12 +58,12 @@ return {
 ["All areas"] = "Всі Теми";
 ["All areas in my units"] = "Всі Теми в моїх спільнотах";
 ["All issues"] = "Всі Питання";
-["All of them"] = "Alle Benachrichtigungen";
+["All of them"] = "Всі";
 ["All units"] = "Всі Спільноти";
-["Any"] = "Усі";
+["Any"] = "Будь-які";
 ["Any phase"] = "Всі Фази";
 ["Any state"] = "Всі стани";
-["Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der globalen Delegation (Zur Zeit: #{delegate_name} [#{scope}])";
+["Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Застосувати глобальне Делегування до цієї Теми (Зараз: #{delegate_name} [#{scope}])";
 ["Apply global or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der globalen bzw. Themenbereichsdelegation (Zur Zeit: #{delegate_name} [#{scope}])";
 ["Apply unit delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der Gliederungsdelegation (Zur Zeit: #{delegate_name} [#{scope}])";
 ["Apply unit or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der Gliederungs-/Themenbereichsdelegation (Zur Zeit: #{delegate_name} [#{scope}])";
