@@ -8,8 +8,8 @@ return {
 ["#{count} in voting"] = "#{count} у голосуванні";
 ["#{count} more areas in this unit"] = "ще #{count} галузей в цьому розділі";
 ["#{count} new"] = "#{count} нових";
-["#{count} of them have an area delegation set"] = "bei #{count} davon ist eine Delegation für den Themenbereichs gesetzt";
-["#{count} of your outgoing delegation(s) are broken"] = "#{count} deiner ausgehenden Delegationen sind kaputt";
+["#{count} of them have an area delegation set"] = "#{count} з них мають налаштоване Делегування Тем";
+["#{count} of your outgoing delegation(s) are broken"] = "#{count} з Ваших Делегувань пошкоджено";
 ["#{date} at #{time}"] = "#{date} о #{time}";
 ["#{interested_issues_to_vote_count} issue(s) you are interested in"] = "#{interested_issues_to_vote_count} Тем у яких Ви зацікавлені";
 ["#{interval_text} [interval]"] = "#{interval_text}";
