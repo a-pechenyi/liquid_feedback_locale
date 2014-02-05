@@ -126,8 +126,8 @@ return {
 ["Change your notification email address"] = "Змінити свій імейл для сповіщень";
 ["Change your password"] = "Змінити свій пароль";
 ["Change your screen name"] = "Змінити своє ім’я на сайті";
-["Check delegations"] = "Delegationen pr\000fen";
-["Check your delegations!"] = "Delegationen pr\000fen!";
+["Check delegations"] = "Перевірити делегування";
+["Check your delegations!"] = "Перевірити Ваші делегування";
 ["Choose initiator"] = "Обрати Ініціатора";
 ["Choose member"] = "Обрати Користувача";
 ["Closed"] = "Закрито";
@@ -136,7 +136,7 @@ return {
 ["Collective opinion of supporters"] = "Загальна думка";
 ["Commit suggestion"] = "Подати пропозицію";
 ["Compare"] = "Порівняти";
-["Configure notifications now"] = "Benachrichtigungen jetzt konfigurieren";
+["Configure notifications now"] = "Налаштувати повідомлення зараз";
 ["Confirm"] = "Підтвердити";
 ["Confirmation code"] = "Код підтвердження";
 ["Confirmation code invalid!"] = "Невірний код підтвердження!";
@@ -144,8 +144,7 @@ return {
 ["Contacts"] = "Контакти";
 ["Content"] = "Зміст";
 ["Counting starts soon"] = "Підрахунок скоро почнеться";
-["Create / edit area"] = "Themengebiet anlegen / bearbeiten";
-["Create / edit policy"] = "Regelwerk anlegen / bearbeiten";
+["Create / edit area"] = "Створити / редагувати Тему";
 ["Create alternative initiative"] = "Створити альтернативну ініціативу";
 ["Create new area"] = "Створити нову Тему";
 ["Create new issue"] = "Створити нове питання";
