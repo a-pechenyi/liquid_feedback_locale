@@ -152,9 +152,9 @@ return {
 ["Create new unit"] = "Створити нову спільноту";
 ["Created at"] = "Створено";
 ["Current name"] = "Поточне ім’я";
-["Current phase is already closed."] = "Die aktuelle Phase ist schon abgeschlossen.";
+["Current phase is already closed."] = "Нинішній етап вже завершено.";
 ["Current status"] = "Поточний статус";
-["Current trustee"] = "Aktueller Delegierter";
+["Current trustee"] = "Поточна Довірена особа";
 ["Current unit and area delegations need confirmation"] = "Aktuelle Gliederungs- und Themenbereichsdelegationen benötigen Bestätigung";
 ["Current votings in areas you are member of and issues you are interested in:"] = "Jetzt laufende Abstimmungen zu Themen aus Deinen Themenbereichen oder solchen an denen Du interessiert bist:";
 ["Currently no API key is set."] = "Zur Zeit ist kein API-Schlüssel festgelegt.";
