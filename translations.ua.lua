@@ -65,7 +65,7 @@ return {
 ["Any state"] = "Всі стани";
 ["Apply global delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Застосувати глобальне Делегування до цієї Теми (Зараз: #{delegate_name} [#{scope}])";
 ["Apply global or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"] = "Застосувати глобальне чи Тематичне Делегування для цього Питання  (Зараз: #{delegate_name} [#{scope}])";
-["Apply unit delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der Gliederungsdelegation (Zur Zeit: #{delegate_name} [#{scope}])";
+["Apply unit delegation for this area (Currently: #{delegate_name} [#{scope}])"] = "Застосувати Делегування Спільноти до цієї Теми (Зараз: #{delegate_name} [#{scope}])";
 ["Apply unit or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"] = "Anwenden der Gliederungs-/Themenbereichsdelegation (Zur Zeit: #{delegate_name} [#{scope}])";
 ["Approval (#th preference) [many entries]"] = "Zustimmung (#.-Wünsche)";
 ["Approval (#th preference) [single entry]"] = "Zustimmung (#.-Wunsch)";
