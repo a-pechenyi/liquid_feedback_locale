@@ -155,8 +155,8 @@ return {
 ["Current phase is already closed."] = "Нинішній етап вже завершено.";
 ["Current status"] = "Поточний статус";
 ["Current trustee"] = "Поточна Довірена особа";
-["Current unit and area delegations need confirmation"] = "Aktuelle Gliederungs- und Themenbereichsdelegationen benötigen Bestätigung";
-["Current votings in areas you are member of and issues you are interested in:"] = "Jetzt laufende Abstimmungen zu Themen aus Deinen Themenbereichen oder solchen an denen Du interessiert bist:";
+["Current unit and area delegations need confirmation"] = "Поточні делегування Спільноти та Теми потребують підтвердження";
+["Current votings in areas you are member of and issues you are interested in:"] = "Поточні голосування у Темах, де ви є Користувачем та Питання що Вас цікавлять:";
 ["Currently no API key is set."] = "Zur Zeit ist kein API-Schlüssel festgelegt.";
 ["Currently required"] = "Zur Zeit benötigt";
 ["Database download"] = "Datenbank herunterladen";
