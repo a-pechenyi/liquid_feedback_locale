@@ -89,14 +89,14 @@ return {
 ["Back"] = "Назад";
 ["Back to initiative"] = "Назад до Ініціатив";
 ["Back to timeline"] = "Назад до Часопису";
-["Ballot of '#{member_name}' for issue ##{issue_id}"] = "Stimmzettel von '#{member_name}' für Thema ##{issue_id}";
+["Ballot of '#{member_name}' for issue ##{issue_id}"] = "Голосів з '#{member_name}' по Питанню ##{issue_id}";
 ["Become a member"] = "Стати Користувачем";
 ["Birthday"] = "День народження";
 ["Broken delegations"] = "Пошкоджені Делегування";
 ["By delegation"] = "Делегуванням";
 ["Calculation"] = "Підрахунок";
-["Can't remove last initiator"] = "Der letzte Initiator kann nicht entfernt werden";
-["Can't send confirmation email"] = "Bestätigungs-E-Mail kann nicht versendet werden.";
+["Can't remove last initiator"] = "Останній ініціатор не може бути видалений";
+["Can't send confirmation email"] = "Не вдається відправити лист-підтвердження на E-Mail.";
 ["Cancel"] = "Відміна";
 ["Cancel [nullify]"] = "Відмінити";
 ["Cancel issue"] = "Thema abbrechen";
