@@ -26,7 +26,7 @@ return {
 [")) == "] = false;
 ["+ #{weight}"] = "+ #{weight}";
 ["+getElementById("] = false;
-["A-Z"] = "A-Z";
+["A-Z"] = "А-Я";
 ["API Key"] = "API-Ключ";
 ["API key has been created"] = "API-ключ було створено";
 ["API key has been deleted"] = "API-Ключ було видалено";
