@@ -222,7 +222,7 @@ return {
 ["Error while converting image. Please note, that only JPG files are supported!"] = "Ошибка при конвертации картинки. Поддерживается только формат JPG.";
 ["Error while updating member, database reported:<br /><br /> (#{errormessage})"] = "Ошибка при актуализировании, текст ошибки базы данных :<br /><br /> (#{errormessage})";
 ["Etherpad authentication failed"] = "Ошибка Etherpad - аутентификации";
-["Event #{id} -> #{num} участников"] = false;
+["Event #{id} -> #{num} members"] = "Событие  #{id} -> #{num} участников";
 ["Everything"] = "Всё";
 ["External memberships"] = "Членство в других организациях";
 ["External posts"] = "Звания";
