@@ -244,7 +244,7 @@ return {
 ["Hello,\n\n"] = "Вітаємо, ";
 ["Help #{id}"] = "Справка #{id}";
 ["Help for: #{text}"] = "Справка для: #{text}";
-["Hide"] = "Verstecken";
+["Hide"] = "Приховати";
 ["Hide active units"] = "Aktive units ausblenden";
 ["Hide filter details"] = "Filter-Details verstecken";
 ["Hide this help message"] = "Сховати цю підказку";
