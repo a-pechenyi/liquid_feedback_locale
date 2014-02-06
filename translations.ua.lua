@@ -162,11 +162,10 @@ return {
 ["Database download"] = "Завантаження бази данних";
 ["Date format is not valid. Please use following format: YYYY-MM-DD"] = "Не вірний формат дати. Будь ласка використовуйте наступний формат: РРРР-ММ-ДД, наприклад 2014-06-23";
 ["Default Policy"] = "Стандартні Правила";
-["Degree"] = "Градусів";
 ["Delegate area"] = "Делегувати Тему";
 ["Delegate issue"] = "Делегувати Питання";
 ["Delegate unit"] = "Делегувати Спільноту";
-["Delegation abandoned"] = "Delegation ausgesetzt";
+["Delegation abandoned"] = "Делегування скасовано";
 ["Delegation turned off for area"] = "Delegation für Themengebiet ausgesetzt";
 ["Delegation turned off for issue"] = "Delegation für Thema ausgesetzt";
 ["Delegations"] = "Delegationen";
