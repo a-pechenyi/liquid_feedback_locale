@@ -335,7 +335,7 @@ return {
 ["Manage timeline filters"] = "Керування фільтром часу";
 ["Member"] = "Користувач";
 ["Member '#{member}'"] = "Користувач '#{member}'";
-["Member has been removed from initiators"] = "Mitglied wurde von den Initiatoren entfernt";
+["Member has been removed from initiators"] = "Користувача було видалено зі списку Ініціторів";
 ["Member has been removed from your contacts"] = "Mitglied wurde aus Deinen Kontakten entfernt";
 ["Member has not approved latest draft"] = "Mitglied hat den letzten Entwurf noch nicht angenommen";
 ["Member has voting privileges for this unit"] = "Mitglied hat Stimmrecht in dieser Gliederung";
