@@ -336,11 +336,11 @@ return {
 ["Member"] = "Користувач";
 ["Member '#{member}'"] = "Користувач '#{member}'";
 ["Member has been removed from initiators"] = "Користувача було видалено зі списку Ініціторів";
-["Member has been removed from your contacts"] = "Mitglied wurde aus Deinen Kontakten entfernt";
-["Member has not approved latest draft"] = "Mitglied hat den letzten Entwurf noch nicht angenommen";
-["Member has voting privileges for this unit"] = "Mitglied hat Stimmrecht in dieser Gliederung";
-["Member inactive?"] = "Mitglied inaktiv?";
-["Member is already saved in your contacts!"] = "Mitglied ist schon in Deinen Kontakten!";
+["Member has been removed from your contacts"] = "Користувача було видалено з Вашого списку контактів";
+["Member has not approved latest draft"] = "Користувач не затвердив останній проект";
+["Member has voting privileges for this unit"] = "Користувач має привілеї для голосування  у Спільноті";
+["Member inactive?"] = "Користувач не активний?";
+["Member is already saved in your contacts!"] = "Користувача вже збережено у Вашому списку контактів!";
 ["Member is not participating in any of the #{count} areas in this unit"] = "Mitglied nimmt an keinem der #{count} Themenbereiche dieser Gliederung teil";
 ["Member is not participating in the only area of the unit"] = "Mitglied nimmt am einzigen Themenbereich der Gliederung nicht teil";
 ["Member is now invited to be initiator"] = "Mitglied ist jetzt als Initiator eingeladen";
