@@ -332,7 +332,7 @@ return {
 ["Logout"] = "Вихід";
 ["Logout successful"] = "Вихід успішно виконано";
 ["Manage filter"] = "Керувати фільтром";
-["Manage timeline filters"] = "Zeitachsen-Filter verwalten";
+["Manage timeline filters"] = "Керування фільтром часу";
 ["Member"] = "Користувач";
 ["Member '#{member}'"] = "Користувач '#{member}'";
 ["Member has been removed from initiators"] = "Mitglied wurde von den Initiatoren entfernt";
