@@ -341,7 +341,7 @@ return {
 ["Member has voting privileges for this unit"] = "Користувач має привілеї для голосування  у Спільноті";
 ["Member inactive?"] = "Користувач не активний?";
 ["Member is already saved in your contacts!"] = "Користувача вже збережено у Вашому списку контактів!";
-["Member is not participating in any of the #{count} areas in this unit"] = "Mitglied nimmt an keinem der #{count} Themenbereiche dieser Gliederung teil";
+["Member is not participating in any of the #{count} areas in this unit"] = "Користувач не бере участі в жодній з #{count} Тем цієї Спільноти";
 ["Member is not participating in the only area of the unit"] = "Mitglied nimmt am einzigen Themenbereich der Gliederung nicht teil";
 ["Member is now invited to be initiator"] = "Mitglied ist jetzt als Initiator eingeladen";
 ["Member is participating in this area"] = "Mitglied ist Teilnehmer im Themenbereich";
