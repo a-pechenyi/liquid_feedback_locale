@@ -429,7 +429,7 @@ return {
 ["Open issues"] = "Відкриті питання";
 ["Opinions"] = "Думки (погляди)";
 ["Options"] = "Налаштування";
-["Organizational unit"] = "Organisationseinheit";
+["Organizational unit"] = "Організаційна Спільнота";
 ["Other failures"] = "Інші збої";
 ["Outgoing delegations"] = "Делегував";
 ["Parent unit"] = "Übergeordnete Gliederung";
