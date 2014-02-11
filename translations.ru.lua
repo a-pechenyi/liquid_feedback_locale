@@ -482,7 +482,7 @@ return {
 ["Profile"] = "Профиль";
 ["Public administrative notice:"] = "Административная информация (публичная)";
 ["Publish"] = "Опубликовать";
-["Published"] = "опубликован";
+["Published"] = "Опубликован";
 ["Quorum"] = "Кворум";
 ["Real name"] = "Настоящие Ф.И.О.";
 ["Refresh support to current draft"] = "Обновить поддержу на текущую версию";
