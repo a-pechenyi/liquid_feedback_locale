@@ -529,11 +529,11 @@ return {
 ["Set delegation for Issue ##{number} in Area '#{area_name}'"] = "Встановити делегування для Питання ##{number} у Темі '#{area_name}' festlegen";
 ["Set global delegation"] = "Встановити Глобальне Делегування";
 ["Set new password"] = "Встановити новий пароль";
-["Set unit delegation"] = "Delegation für Gliederung setzen";
+["Set unit delegation"] = "Встановити Делегування для Спільноти";
 ["Settings"] = "Налаштування";
 ["Show"] = "Показати";
-["Show areas in use"] = "Zeige verwendete Themenbereiche";
-["Show areas not in use"] = "Zeige nicht verwendete Themenbereiche";
+["Show areas in use"] = "Показати Теми в користуванні";
+["Show areas not in use"] = "Показати Теми, що не у користуванні";
 ["Show diff"] = "Änderungen anzeigen";
 ["Show filter details"] = "Zeige Filter-Details";
 ["Show help text"] = "Zeige Hilfe-Text";
