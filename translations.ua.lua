@@ -454,12 +454,12 @@ return {
 ["Please confirm your email address"] = "Будь-ласка підтвердіть вашу Email адресу";
 ["Please confirm your email address by clicking the following link:\n\n"] = "Будь-ласка підтвердіть вашу Email адресу натиснувши наступний лінк:\n\n";
 ["Please decide for each delegation to confirm or to revoke it!"] = "Будь ласка підтвердьте або відкликайте кожне Делегування!";
-["Please enter the email reset code you have received:"] = "Bitte gib den Rücksetzcode ein, den Du erhalten hast:";
+["Please enter the email reset code you have received:"] = "Будь ласка, введіть код відновлення, отриманий на електронну пошту:";
 ["Please enter the invite code you've received."] = "Будь-ласка введіть отриманий код запрошення.";
 ["Please enter your email address. This address will be used for automatic notifications (if you request them) and in case you've lost your password. This address will not be published. After registration you will receive an email with a confirmation link."] = "Будь-ласка введіть свою імейл адресу. Ця адреса буде використовуватись для автоматичних сповіщень (якщо ви запросите їх) та в разі втрати пароля. Ця адреса не буде оприлюднюватись. Після реєстрації ви отримаєте повідомлення з лінком для підтвердження.";
-["Please enter your email address. You will receive an email with your login name."] = "Bitte die E-Mail-Adresse eingeben. An diese wird eine Nachricht mit dem zugehörigen Anmeldenamen versendet.";
-["Please enter your login name. You will receive an email with a link to reset your password."] = "Bitte gib Deinen Anmeldenamen ein. Du wirst eine E-Mail mit einem Link zum Zurücksetzen des Kennworts erhalten.";
-["Please enter your new password twice."] = "Bitte gib Dein neues Kennwort zweimal ein:";
+["Please enter your email address. You will receive an email with your login name."] = "Будь ласка, введіть Вашу адресу електронної пошти. Ви отримаєте лист з Вашим ім’ям Користувача (login name).";
+["Please enter your login name. You will receive an email with a link to reset your password."] = "Будь ласка, введіть Ваше ім’я Користувача (login name). Ви отримаєте листа з посиланням для відновлення паролю.";
+["Please enter your new password twice."] = "Будь ласка, введіть та підтвердьте Ваш пароль.";
 ["Please select your preferred notification level"] = "Будь-ласка оберіть ваш бажаний рівень сповіщень";
 ["Policies"] = "Процедури";
 ["Policy"] = "Процедура";
