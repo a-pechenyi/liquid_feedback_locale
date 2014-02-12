@@ -34,7 +34,7 @@ return {
 ["Abandon global delegation for this area"] = "Скасувати глобальне делегування для цієї області";
 ["Abandon unit and area delegations for this issue"] = "Скасувати делегування підрозділів та регіону для цього питання";
 ["Abandon unit delegation"] = "Скасувати делегування підрозділів";
-["Abandon unit delegation for this area"] = "Скасувати делегування підрозділів для цього регіону";
+["Abandon unit delegation for this area"] = "Скасувати Делегування Спільноти до цієї Теми";
 ["About site"] = "Про цей ресурс";
 ["Abstention"] = "Утриматись";
 ["Abstention [many entries]"] = "Утриматись [many entries]";
