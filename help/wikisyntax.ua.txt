@@ -1,0 +1,1 @@
+==== Wiki Підказка ====Ви можете обрати більш прийнятний для Вас синтаксис з двох наведених:[wikisyntax_rocketwiki.html RocketWiki синтаксис][wikisyntax_compat.html Традиційний wiki синтаксис]
