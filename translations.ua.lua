@@ -537,10 +537,10 @@ return {
 ["Show diff"] = "Показати відмінності";
 ["Show filter details"] = "Zeige Filter-Details";
 ["Show help text"] = "Показати текстову Допомогу";
-["Show inactive units"] = "Zeige deaktivierte Gliederungen";
-["Show member"] = "Mitglied anzeigen";
+["Show inactive units"] = "Показати неактивні спільноти";
+["Show member"] = "Показати користувача";
 ["Show member history"] = "Показати історію учасника";
-["Show older events"] = "Zeige ältere Ereignisse";
+["Show older events"] = "Показати старі події";
 ["Show only events which match... (or associtated)"] = "Zeige nur Ereignisse welche folgendes erfüllen... (oder-verknüpft)";
 ["Show policies in use"] = "Zeige Regelwerke in Verwendung";
 ["Show policies not in use"] = "Zeige deaktivierte Regelwerke";
@@ -554,7 +554,7 @@ return {
 ["Source"] = "Quelltext";
 ["Standard policies"] = "Standardverfahren";
 ["Start search"] = "Почати пошук";
-["Statement"] = "Statement";
+["Statement"] = "Постанова";
 ["Status"] = "Статус";
 ["Status quo: #{rank}"] = "Status quo: #{rank}";
 ["Stop ignoring member"] = "nicht mehr ignorieren";
@@ -582,7 +582,7 @@ return {
 ["The draft of this initiative has been updated!"] = "Der Entwurfstext der Initiative wurde aktualisiert!";
 ["The drafts do not differ"] = "Die Entwürfe unterscheiden sich nicht";
 ["The initiators suggest to support the following initiative:"] = "Ініціатор пропонує підтримати наступну ініціативу:";
-["This email address is too short!"] = "Diese E-Mail-Adresse ist zu kurz!";
+["This email address is too short!"] = "Цей Е-мейл закороткий!";
 ["This initiative"] = "Ця ініціатива";
 ["This initiative has been revoked at #{revoked}"] = "Ця ініціатива була відкликана #{revoked}";
 ["This initiative has not been admitted! It failed the quorum of #{quorum}."] = "Diese Initiative wurde nicht zugelassen. Sie hat das Quorum von #{quorum} nicht erreicht.";
