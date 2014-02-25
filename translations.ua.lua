@@ -592,9 +592,9 @@ return {
 ["This issue has been canceled by administrative intervention."] = "Це питання було скасовано адміністративним втручанням.";
 ["This issue has been canceled."] = "Це питання було скасовано.";
 ["This issue has been canceled. It failed the quorum of #{quorum}."] = "Dieses Thema wurde abgebrochen. Es hat das Quorum von #{quorum} nicht erfüllt.";
-["This issue is already closed."] = "Das Thema ist schon geschlossen.";
-["This issue is already frozen."] = "Das Thema ist schon eingefroren";
-["This login is already taken, please choose another one!"] = "Dieser Anmeldename ist bereits vergeben, bitte wähle einen anderen!";
+["This issue is already closed."] = "Це питання вже закрите.";
+["This issue is already frozen."] = "Це питання вже заморожене.";
+["This login is already taken, please choose another one!"] = "Такий логін вже зайнятий, будь ласка, спробуйте інший!";
 ["This login is too short!"] = "Dieser Anmeldename ist zu kurz!";
 ["This member account has been created at #{created}"] = "Акаунт цього учасника був створений #{created}";
 ["This member has rejected to become initiator of this initiative"] = "Dieses Mitglied hat die Einladung, Initiator zu werden, abgelehnt";
