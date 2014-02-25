@@ -546,7 +546,7 @@ return {
 ["Show policies not in use"] = "Показати правила, що не використовуються";
 ["Show profile"] = "Показати профіль";
 ["So I'm"] = "Тому я";
-["Software"] = "Software";
+["Software"] = "Програмне забезпечення";
 ["Sorry, but there is not confirmed email address for your account. Please contact the administrator or support."] = "Вибачте, але для Вашого облікового запису немає жодної підтвердженої email-адреси. Зверніться, будь ласка, до адміністратора або у службу підтримки.";
 ["Sorry, but you are currently not invited"] = "Вибачте, але в даний момент Ви не є запрошеними.";
 ["Sorry, you have reached your personal flood limit. Please be slower..."] = "Sorry, Du hast Dein persönliches Flood-Limit erreicht. Bitte sei langsamer...";
@@ -612,8 +612,8 @@ return {
 ["This name is really too short!"] = "Dieser Name ist wirklich zu kurz!";
 ["This name is too short!"] = "Dieser Name ist zu kurz!";
 ["This screen name is too short!"] = "Dieser Screen-Name ist zu kurz!";
-["This service is provided by:"] = "Diensteanbieter:";
-["This service is provided using the following software components:"] = "Dieser Dienst ist mit folgender Software realisiert worden:";
+["This service is provided by:"] = "Цей сервіс надається:";
+["This service is provided using the following software components:"] = "Цей сервіс надається з використанням наступного програмного забезпечення:";
 ["This site is using"] = "Цей сайт використовує";
 ["This suggestion has been meanwhile deleted"] = "Diese Anregung wurde zwischenzeitlich gelöscht";
 ["This title is really too short!"] = "Dieser Titel ist wirklich zu kurz!";
