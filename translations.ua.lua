@@ -156,7 +156,7 @@ return {
 ["Current status"] = "Поточний статус";
 ["Current trustee"] = "Поточна Довірена особа";
 ["Current unit and area delegations need confirmation"] = "Поточні делегування Спільноти та Теми потребують підтвердження";
-["Current votings in areas you are member of and issues you are interested in:"] = "Поточні голосування у Темах, де ви є Користувачем та Питання що Вас цікавлять:";
+["Current votings in areas you are member of and issues you are interested in:"] = "Поточні голосування у Темах, де ви є Учасником та Питання що Вас цікавлять:";
 ["Currently no API key is set."] = "API ключ зараз не встановлено.";
 ["Currently required"] = "Потрібні зараз (учасники)";
 ["Database download"] = "Завантаження бази данних";
@@ -219,7 +219,7 @@ return {
 ["Email confirmation request"] = "Запит на підтвердження email адреси";
 ["Empty help text: #{id}.#{lang}.txt"] = "Порожній текст довідки: #{id}.#{lang}.txt";
 ["Error while converting image. Please note, that only JPG files are supported!"] = "Сталася помилка при конвертуванні зображення. Зверніть увагу, підтримується лише JPG формат.";
-["Error while updating member, database reported:<br /><br /> (#{errormessage})"] = "Сталася помилка при оновленні даних користувача. Статус бази даних:<br /><br /> (#{errormessage})";
+["Error while updating member, database reported:<br /><br /> (#{errormessage})"] = "Сталася помилка при оновленні даних Користувача. Статус бази даних:<br /><br /> (#{errormessage})";
 ["Etherpad authentication failed"] = "Невдала реєстрація EtherPad";
 ["Event #{id} -> #{num} members"] = "Подія #{id} -> #{num} Користувачів";
 ["Everything"] = "Все";
