@@ -69,12 +69,12 @@ return {
 ["Apply unit or area delegation for this issue (Currently: #{delegate_name} [#{scope}])"] = "Застосувати делегування Спільноти або Теми з цього питання (Зараз: #{delegate_name} [#{scope}])";
 ["Approval (#th preference) [many entries]"] = "Затвердження (#.- вибір)";
 ["Approval (#th preference) [single entry]"] = "Затвердження (#.- вибір)";
-["Approval (first preference) [many entries]"] = "Голосування (перший запит) [декілька варіантів]";
-["Approval (first preference) [single entry]"] = "Голосування (перший запит) [один варіант]";
-["Approval (second preference) [many entries]"] = "Голосування (другий запит) [декілька варіантів]";
-["Approval (second preference) [single entry]"] = "Голосування (другий запит) [один варіант]";
-["Approval (third preference) [many entries]"] = "Голосування (третій запит) [декілька варіантів]";
-["Approval (third preference) [single entry]"] = "Голосування (третій запит) [один варіант]";
+["Approval (first preference) [many entries]"] = "Затвердження (перший запит) [декілька варіантів]";
+["Approval (first preference) [single entry]"] = "Затвердження (перший запит) [один варіант]";
+["Approval (second preference) [many entries]"] = "Затвердження (другий запит) [декілька варіантів]";
+["Approval (second preference) [single entry]"] = "Затвердження (другий запит) [один варіант]";
+["Approval (third preference) [many entries]"] = "Затвердження (третій запит) [декілька варіантів]";
+["Approval (third preference) [single entry]"] = "Затвердження (третій запит) [один варіант]";
 ["Approval [many entries]"] = "Схвалення";
 ["Approval [single entry]"] = "Схвалення";
 ["Approved"] = "Затверджено";
@@ -427,7 +427,7 @@ return {
 ["Open"] = "Відкриті";
 ["Open initiatives you are supporting which has been updated their draft:"] = "Підтримані Вами відкриті Ініціативи, проекти яких було оновлено:";
 ["Open issues"] = "Відкриті питання";
-["Opinions"] = "Думки (погляди)";
+["Opinions"] = "Думки (погляди) учасників";
 ["Options"] = "Налаштування";
 ["Organizational unit"] = "Організаційна Спільнота";
 ["Other failures"] = "Інші збої";
