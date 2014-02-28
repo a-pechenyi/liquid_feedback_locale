@@ -37,8 +37,8 @@ return {
 ["Abandon unit delegation for this area"] = "Скасувати Делегування Спільноти до цієї Теми";
 ["About site"] = "Про цей ресурс";
 ["Abstention"] = "Утриматись";
-["Abstention [many entries]"] = "Утриматись [many entries]";
-["Abstention [single entry]"] = "Утриматись [single entry]";
+["Abstention [many entries]"] = "Утриматись";
+["Abstention [single entry]"] = "Утриматись";
 ["Accept invitation"] = "Прийняти запрошення";
 ["Accepted at"] = "Прийнято о";
 ["Access level"] = "Рівень доступу";
@@ -473,7 +473,7 @@ return {
 ["Potential supporters (before begin of voting)"] = "Потенційно підтримають (до голосування)";
 ["Potentially supported"] = "Потенційна підтримка";
 ["Preview"] = "Превью";
-["Preview voting comment"] = "Предивитись до коментарів голосування";
+["Preview voting comment"] = "Переглянути коментарі до голосування";
 ["Proceed with registration"] = "Продовжити реєстрацію";
 ["Profession"] = "Професія";
 ["Profile"] = "Профіль";
