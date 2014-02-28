@@ -56,7 +56,7 @@ return {
 ["Admission time"] = "Час прийняття";
 ["Admitted"] = "Прийнято";
 ["All areas"] = "Всі Теми";
-["All areas in my units"] = "Всі Теми в моїх спільнотах";
+["All areas in my units"] = "Всі Теми в моїх Спільнотах";
 ["All issues"] = "Всі Питання";
 ["All of them"] = "Всі";
 ["All units"] = "Всі Спільноти";
@@ -227,7 +227,7 @@ return {
 ["External posts"] = "Зовнішні повідомлення";
 ["Finish delegation check"] = "Завершити перевірку делегування";
 ["Finish voting"] = "Завершити голосування";
-["Finished"] = "Завершити";
+["Finished"] = "Завершені";
 ["Finished (with winner)"] = "Завершити (з переможцем)";
 ["Finished (without winner)"] = "Завершити (без переможця)";
 ["Forgot login name?"] = "Забули логін?";
@@ -251,7 +251,7 @@ return {
 ["History"] = "Історія";
 ["Home"] = "Домашня сторінка";
 ["I consider suggestion as"] = "Я вважаю що пропозицію";
-["I like to receive notifications by email about events in my areas and issues:"] = "Я хочу отримувати імейл сповіщення про події в моїх темах та спільнотах:";
+["I like to receive notifications by email about events in my areas and issues:"] = "Я хочу отримувати сповіщення електронною поштою про події в моїх Темах та Спільнотах:";
 ["Id"] = "id";
 ["Identification"] = "Ідентифікація";
 ["If this link is not working, please open following url in your web browser:\n\n"] = "Якщо це посилання не працює, будь ласка, відкрийте наступне посилання в переглядачі:\n\n";
