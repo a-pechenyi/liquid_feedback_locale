@@ -228,8 +228,8 @@ return {
 ["Finish delegation check"] = "Завершити перевірку делегування";
 ["Finish voting"] = "Завершити голосування";
 ["Finished"] = "Завершені";
-["Finished (with winner)"] = "Завершити (з переможцем)";
-["Finished (without winner)"] = "Завершити (без переможця)";
+["Finished (with winner)"] = "Завершено (з переможцем)";
+["Finished (without winner)"] = "Завершено (без переможця)";
 ["Forgot login name?"] = "Забули логін?";
 ["Forgot password?"] = "Забули пароль?";
 ["Free timing"] = "Вільний вибір часу";
