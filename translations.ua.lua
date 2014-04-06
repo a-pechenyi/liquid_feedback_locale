@@ -322,7 +322,7 @@ return {
 ["Latest draft created at #{date} #{time}"] = "Останній варіант від #{date} #{time}";
 ["Latest events"] = "Останні події";
 ["License"] = "Ліцензія";
-["LiquidFeedback"] = "Прозора Демократія";
+["LiquidFeedback"] = "LiquidFeedback";
 ["List all revisions (#{count})"] = "Список всіх версій (#{count})";
 ["Lock member?"] = "Блокувати Користувача?";
 ["Locked?"] = "Заблоковано?";
